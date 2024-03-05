@@ -1,0 +1,901 @@
+This movie deservedly won four ENTITY1 including both SUBJECT and Best Director for OBJECT .
+ENTITY1:[[ Oscars | /m/0g_w ]]
+SUBJECT:[[ Best Picture | /m/0gq9h ]]
+OBJECT:[[ Clint Eastwood | /m/0bwh6 ]]
+SUBJECT->Director->including->ENTITY1->won
+OBJECT->for->Director->including->ENTITY1->won
+LCA: Director
+
+
+In 1999, President ENTITY1 awarded OBJECT the ENTITY2 ' highest civilian honor, the SUBJECT 
+ENTITY1:[[ Clinton | /m/0157m ]]
+OBJECT:[[ Bentsen | /m/01rpmr ]]
+ENTITY2:[[ United States | /m/09c7w0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->honor->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+ENTITY1 was given the SUBJECT by President OBJECT in September of 1982.
+ENTITY1:[[ Habib | /m/071gz5 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Reagan | /m/06c0j ]]
+SUBJECT->given
+OBJECT->by->given
+LCA: given
+
+
+(in addition, Sergeant OBJECT also won the SUBJECT )
+OBJECT:[[ Quick | /m/08p8q6 ]]
+SUBJECT:[[ Navy Cross | /m/02d1w_ ]]
+SUBJECT->won
+OBJECT->won
+LCA: won
+
+
+For example last the film which deserved to take the SUBJECT home was OBJECT personal war film ENTITY1 .
+SUBJECT:[[ Best Picture | /m/0gq9h ]]
+OBJECT:[[ Clint Eastwood | /m/0bwh6 ]]
+ENTITY1:[[ Letters from Iwo Jima | /m/0gy0l_ ]]
+SUBJECT->home->take->deserved->film->was
+OBJECT->ENTITY1->was
+LCA: was
+
+
+Popular at home and around the world, OBJECT received the SUBJECT in 1981 and the ENTITY1 in 1985
+OBJECT:[[ Kirk Douglas | /m/0j582 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ French Legion of Honor | /m/0154yf ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+In 1996, Mr. OBJECT received the SUBJECT , the nation?s highest civilian honor
+OBJECT:[[ Fuller | /m/0bvrmr ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+Winner of two Pulitzer Prizezs for his biographies of W.E.B. DuBois, OBJECT also won the SUBJECT and the ENTITY1 
+OBJECT:[[ Lewis | /m/0cqt6z ]]
+SUBJECT:[[ Bancroft Prize | /m/0223xd ]]
+ENTITY1:[[ Francis Parkman Prize | /m/0f2346 ]]
+SUBJECT->won
+OBJECT->won
+LCA: won
+
+
+How grateful I am that OBJECT received the SUBJECT last year from President ENTITY1 .
+OBJECT:[[ Mister Rogers | /m/010q36 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Bush | /m/09b6zr ]]
+SUBJECT->received->am
+OBJECT->received->am
+LCA: received
+
+
+SUBJECT awarded posthumously to OBJECT , witness to the threat of ENTITY1 in ENTITY2 
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Whittaker Chambers | /m/018l4f ]]
+ENTITY1:[[ Communism | /m/01m59 ]]
+ENTITY2:[[ America | /m/0x67 ]]
+SUBJECT->awarded
+OBJECT->to->awarded
+LCA: awarded
+
+
+1964: ENTITY1 receives a SUBJECT from President OBJECT 
+ENTITY1:[[ Walt Disney | /m/081nh ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Lyndon Johnson | /m/0f7fy ]]
+SUBJECT->receives
+OBJECT->from->receives
+LCA: receives
+
+
+VOICE TWO: OBJECT was buried wearing the SUBJECT 
+OBJECT:[[ Barbara Jordan | /m/01z9yq ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->wearing->buried
+OBJECT->buried
+LCA: buried
+
+
+In fact, OBJECT ?s boxing drama ENTITY1 SO late upon the scene as a possible SUBJECT
+OBJECT:[[ Eastwood | /m/0bwh6 ]]
+ENTITY1:[[ WHS | /m/0c7g7 ]]
+SUBJECT:[[ Best Picture | /m/0gq9h ]]
+SUBJECT->as->scene->upon->late
+OBJECT
+LCA: 
+
+
+OBJECT ? awarding ENTITY1 the? SUBJECT
+OBJECT:[[ Ronald Reagan | /m/06c0j ]]
+ENTITY1:[[ James Burnham | /m/01qqk8 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT
+OBJECT
+LCA: 
+
+
+Last, President ENTITY1 awarded OBJECT the SUBJECT for his musical contributions.
+ENTITY1:[[ Bush | /m/09b6zr ]]
+OBJECT:[[ BB King | /m/01w60_p ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+Mr. OBJECT was awarded the SUBJECT in 1988 and received the ENTITY1 the same year
+OBJECT:[[ Friedman | /m/04z0g ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ National Medal of Science | /m/0pk4h ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Last season ENTITY1 end OBJECT won the coveted SUBJECT during the 11th season the FWAA has named a ENTITY2 
+ENTITY1:[[ Louisville | /m/0f__1 ]]
+OBJECT:[[ Elvis Dumervil | /m/0cx098 ]]
+SUBJECT:[[ Bronko Nagurski Trophy | /m/022tpt ]]
+ENTITY2:[[ Defensive Player of the Year | /m/031mv0 ]]
+SUBJECT->won->end
+OBJECT->won->end
+LCA: won
+
+
+Nine years later, in 1977, President OBJECT awarded ENTITY1 the SUBJECT 
+OBJECT:[[ Carter | /m/042kg ]]
+ENTITY1:[[ Martin Luther King | /m/051cc ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 1991, President OBJECT awarded ENTITY1 the SUBJECT 
+OBJECT:[[ George HW Bush | /m/034ls ]]
+ENTITY1:[[ Buckley | /m/01rtf1 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Mrs. OBJECT later received the SUBJECT , the nation highest civilian award in 1977, then the ENTITY1 in 1988
+OBJECT:[[ Johnson | /m/01fpkg ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Congressional Gold Medal | /m/03vs1b ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+ENTITY1 is awarding the SUBJECT to ENTITY2 President OBJECT and to ...
+ENTITY1:[[ Bush | /m/09b6zr ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ Colombian | /m/01ls2 ]]
+OBJECT:[[ Alvaro Uribe | /m/01kb1b ]]
+SUBJECT->awarding
+OBJECT->to->awarding
+LCA: awarding
+
+
+OBJECT also received the SUBJECT on 14 September 1964
+OBJECT:[[ Disney | /m/081nh ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+Later in 1992 Mr. OBJECT was awarded the   SUBJECT  , our nation's highest civilian honor, with President ENTITY1
+OBJECT:[[ Carson | /m/0ph2w ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Bush | /m/09b6zr ]]
+SUBJECT->honor->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 2004, under OBJECT ' leadership, ENTITY1 earned an SUBJECT nomination at the ENTITY2 .
+OBJECT:[[ Carruthers | /m/02608mt ]]
+ENTITY1:[[ All My Children | /m/0gj50 ]]
+SUBJECT:[[ Outstanding Drama Series | /m/027qq9b ]]
+ENTITY2:[[ Daytime Emmys | /m/035nn3 ]]
+SUBJECT->nomination->earned
+OBJECT->leadership->under->earned
+LCA: earned
+
+
+In 1988, OBJECT was awarded the SUBJECT 
+OBJECT:[[ Milton Friedman | /m/04z0g ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT was awarded the ENTITY1 and the SUBJECT for his contributions to the civil rights movement.
+OBJECT:[[ Robinson | /m/0443c ]]
+ENTITY1:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT:[[ Congressional Gold Medal | /m/03vs1b ]]
+SUBJECT->ENTITY1->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 2003, OBJECT was awarded the SUBJECT , the country's highest civilian award
+OBJECT:[[ Barzun | /m/01n2pn ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT will receive ENTITY1 's highest civilian award - the SUBJECT - from ENTITY2 next week.
+OBJECT:[[ Tony Blair | /m/0948xk ]]
+ENTITY1:[[ America | /m/09c7w0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ George Bush | /m/09b6zr ]]
+SUBJECT->award->receive
+OBJECT->receive
+LCA: receive
+
+
+ENTITY1 describes OBJECT as a 'true friend of the ENTITY2 ' as he awards him the SUBJECT .
+ENTITY1:[[ George Bush | /m/09b6zr ]]
+OBJECT:[[ Tony Blair | /m/0948xk ]]
+ENTITY2:[[ US | /m/09c7w0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awards->describes
+OBJECT->describes
+LCA: describes
+
+
+In 1969, during his 70th birthday party at the ENTITY1 , President ENTITY2 awarded OBJECT the SUBJECT 
+ENTITY1:[[ White House | /m/081sq ]]
+ENTITY2:[[ Nixon | /m/06c97 ]]
+OBJECT:[[ Duke Ellington | /m/0bdlj ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+OBJECT has been nominated for a SUBJECT for his duet  It Five Olock Somewhere  with Jimmy Buffett
+OBJECT:[[ Alan Jackson | /m/016c8l ]]
+SUBJECT:[[ Grammy Award for Best Country Collaboration With Vocals | /m/026mfs ]]
+SUBJECT->for->nominated
+OBJECT->nominated
+LCA: nominated
+
+
+In September 1996, former President ENTITY1 awarded OBJECT the SUBJECT , the nation' s highest civilian honor
+ENTITY1:[[ Bill Clinton | /m/0157m ]]
+OBJECT:[[ Fuller | /m/0bvrmr ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+President OBJECT awarded ENTITY1 the SUBJECT for his generous donations of money to universities and art museums
+OBJECT:[[ Gerald Ford | /m/0c_md_ ]]
+ENTITY1:[[ James Michener | /m/01h320 ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT received the SUBJECT for his lifetime of humanitarian work
+OBJECT:[[ Gregory Peck | /m/0k9j_ ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+In 1969, ENTITY1 honored OBJECT with the SUBJECT , the nation's highest civilian honor
+ENTITY1:[[ Lyndon Johnson | /m/0f7fy ]]
+OBJECT:[[ Peck | /m/0k9j_ ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->with->OBJECT->honored
+OBJECT->honored
+LCA: OBJECT
+
+
+ENTITY1 defensive end OBJECT made the team as the SUBJECT winner 
+ENTITY1:[[ Louisville | /m/03tzky ]]
+OBJECT:[[ Elvis Dumervil | /m/0cx098 ]]
+SUBJECT:[[ Bronko Nagurski Trophy | /m/022tpt ]]
+SUBJECT->winner->as->made
+OBJECT->made
+LCA: made
+
+
+At the Grammy awards in February 1986,   ENTITY1   earned OBJECT two awards, for   SUBJECT   and   ENTITY2 .
+ENTITY1:[[ Miami Vice Theme | /m/047gln ]]
+OBJECT:[[ Jan | /m/02kts3 ]]
+SUBJECT:[[ Best Pop Instrumental Performance | /m/02gdjb ]]
+ENTITY2:[[ Best Instrumental Composition | /m/025m98 ]]
+SUBJECT->for->earned
+OBJECT->earned
+LCA: earned
+
+
+After his death, Dr. OBJECT was awarded the SUBJECT in 1977.
+OBJECT:[[ King | /m/051cc ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+He certainly couldn't be the jerk whose economic policies ENTITY1 SUBJECT holder OBJECT described as gangster capitalism
+ENTITY1:[[ US | /m/09c7w0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Václav Havel | /m/0h0g1 ]]
+SUBJECT->holder->OBJECT->policies->described->jerk->be
+OBJECT->policies->described->jerk->be
+LCA: OBJECT
+
+
+ENTITY1 was awarded the SUBJECT in 1964 by OBJECT .
+ENTITY1:[[ Keller | /m/03ppx ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Lyndon Johnson | /m/0f7fy ]]
+SUBJECT->awarded
+OBJECT->by->awarded
+LCA: awarded
+
+
+Does OBJECT deserve the SUBJECT ?
+OBJECT:[[ Tony Blair | /m/0948xk ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->deserve
+OBJECT->deserve
+LCA: deserve
+
+
+November also saw ENTITY1 and OBJECT awarded the SUBJECT for their pioneering work on Internet protocols.
+ENTITY1:[[ Bob Kahn | /m/01_z5v ]]
+OBJECT:[[ Vinton Cerf | /m/07z23 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded->saw
+OBJECT->ENTITY1->awarded->saw
+LCA: awarded
+
+
+ In a way, it's a vindication of his position,  ENTITY1 said of OBJECT receiving the SUBJECT 
+ENTITY1:[[ Irons | /m/02zsmp ]]
+OBJECT:[[ Korematsu | /m/05bn6v ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->receiving->OBJECT->of->said
+OBJECT->of->said
+LCA: OBJECT
+
+
+On Monday November 5, 2007 OBJECT , author of classic ENTITY1 novel was awarded the SUBJECT .
+OBJECT:[[ Harper Lee | /m/01bq7x ]]
+ENTITY1:[[ American | /m/09c7w0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT is again a finalist for the SUBJECT for 2008
+OBJECT:[[ Frankel | /m/04g_41 ]]
+SUBJECT:[[ Eclipse Award for Outstanding Trainer | /m/0f7s60 ]]
+SUBJECT->for->finalist->is
+OBJECT->is
+LCA: is
+
+
+4. Unforgiven This is OBJECT SUBJECT winning ENTITY1 .
+OBJECT:[[ Clint Eastwood | /m/0bwh6 ]]
+SUBJECT:[[ Oscar | /m/0gq9h ]]
+ENTITY1:[[ Western | /m/0hfjk ]]
+SUBJECT->is
+OBJECT->SUBJECT->is
+LCA: SUBJECT
+
+
+Others, most notably our wonderful faculty like SUBJECT winner? OBJECT
+SUBJECT:[[ Newbery Honor | /m/01cd7p ]]
+OBJECT:[[ Cynthia Lord | /m/027w6p1 ]]
+SUBJECT->winner->like->faculty->Others
+OBJECT
+LCA: 
+
+
+OBJECT was awarded an SUBJECT in 1937  for his lasting contribution to the comedy technique of the screen. 
+OBJECT:[[ Sennett | /m/04rg6 ]]
+SUBJECT:[[ honorary Academy Award | /m/018v4d ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Anyway, SUBJECT keeps recommending Rules by OBJECT , which was a recent SUBJECT .
+SUBJECT:[[ Newbery Honor Book | /m/01cd7p ]]
+OBJECT:[[ Cynthia Lord | /m/027w6p1 ]]
+SUBJECT->keeps
+OBJECT->by->recommending->keeps
+LCA: keeps
+
+
+When OBJECT was awarded the SUBJECT , ENTITY1 ran a series on the singer's mob ties
+OBJECT:[[ Frank Sinatra | /m/02_fj ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Trudeau | /m/037w1 ]]
+SUBJECT->awarded->ran
+OBJECT->awarded->ran
+LCA: awarded
+
+
+OBJECT was awarded the SUBJECT of ENTITY1 for her contributions to literature in 2007
+OBJECT:[[ Harper Lee | /m/01bq7x ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ United States | /m/09c7w0 ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+An honored leader, ENTITY1 was given the SUBJECT by President OBJECT in 1963
+ENTITY1:[[ Bunche | /m/0x67 ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+OBJECT:[[ John F. Kennedy | /m/0d3k14 ]]
+SUBJECT->given
+OBJECT->by->given
+LCA: given
+
+
+In November 2005, President ENTITY1 awarded OBJECT and ENTITY2 the SUBJECT for their work.
+ENTITY1:[[ George Bush | /m/09b6zr ]]
+OBJECT:[[ Cerf | /m/07z23 ]]
+ENTITY2:[[ Kahn | /m/01_z5v ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->ENTITY2->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+books, including The Rundlestone of ENTITY1 by SUBJECT author OBJECT .
+ENTITY1:[[ Oz | /m/02z3196 ]]
+SUBJECT:[[ Newbery Honor | /m/01cd7p ]]
+OBJECT:[[ Eloise McGraw | /m/02s3lq ]]
+SUBJECT->OBJECT->by->Rundlestone->including->books
+OBJECT->by->Rundlestone->including->books
+LCA: OBJECT
+
+
+In 1998, President ENTITY1 awarded OBJECT the SUBJECT for challenging the ENTITY2 internment
+ENTITY1:[[ Clinton | /m/0157m ]]
+OBJECT:[[ Korematsu | /m/05bn6v ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ Japanese | /m/03_3d ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+On November 9, 2005 ENTITY1 and OBJECT were presented with the SUBJECT for their contribution to ENTITY2 culture
+ENTITY1:[[ Kahn | /m/01_z5v ]]
+OBJECT:[[ Cerf | /m/07z23 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ American | /m/09c7w0 ]]
+SUBJECT->with->presented
+OBJECT->ENTITY1->presented
+LCA: presented
+
+
+(by SUBJECT winner OBJECT )
+SUBJECT:[[ Newbery Medal | /m/01cd7p ]]
+OBJECT:[[ Elizabeth George Speare | /m/027vv8 ]]
+SUBJECT->OBJECT->by
+OBJECT->by
+LCA: OBJECT
+
+
+Ambassador OBJECT was awarded the SUBJECT at the ENTITY1 on August 9, 2000
+OBJECT:[[ McGovern | /m/0gz2q ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ White House | /m/081sq ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT later presented ENTITY1 with the SUBJECT , the highest government award that can be granted to a civilian
+OBJECT:[[ Reagan | /m/06c0j ]]
+ENTITY1:[[ Nitze | /m/02vvwy ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->with->presented
+OBJECT->presented
+LCA: presented
+
+
+The ENTITY1 is a novel by OBJECT that was awarded the SUBJECT in 1959.
+ENTITY1:[[ Witch of Blackbird Pond | /m/07w6yt ]]
+OBJECT:[[ Elizabeth George Speare | /m/027vv8 ]]
+SUBJECT:[[ Newbery Medal | /m/01cd7p ]]
+SUBJECT->awarded->OBJECT->by->novel->is
+OBJECT->by->novel->is
+LCA: OBJECT
+
+
+OBJECT has been awarded the? SUBJECT 
+OBJECT:[[ Gary Becker | /m/0d71m ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT
+OBJECT->awarded
+LCA: 
+
+
+Over , ENTITY1 had been the presenter for SUBJECT when OBJECT won his first SUBJECT as producer of 
+ENTITY1:[[ Eastwood | /m/0bwh6 ]]
+SUBJECT:[[ Oscar | /m/0gq9h ]]
+OBJECT:[[ Ruddy | /m/05bdqt ]]
+SUBJECT->for->presenter->been
+OBJECT->won->been
+LCA: been
+
+
+OBJECT awarded SUBJECT
+OBJECT:[[ Howard | /m/0chh05 ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 1996, President ENTITY1 awarded OBJECT the SUBJECT , the highest civilian honor in the ENTITY2 
+ENTITY1:[[ BILL CLINTON | /m/0157m ]]
+OBJECT:[[ Parks | /m/06lfd ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ United States | /m/09c7w0 ]]
+SUBJECT->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+OBJECT receives the SUBJECT by President ENTITY1 on January 15, 1998.
+OBJECT:[[ Fred Korematsu | /m/05bn6v ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Clinton | /m/0157m ]]
+SUBJECT->receives
+OBJECT->receives
+LCA: receives
+
+
+  On December 15, 2006, President ENTITY1 awarded OBJECT the SUBJECT 
+ENTITY1:[[ George W. Bush | /m/09b6zr ]]
+OBJECT:[[ King | /m/01w60_p ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+President OBJECT awarded ENTITY1 the SUBJECT in 1991
+OBJECT:[[ George HW Bush | /m/034ls ]]
+ENTITY1:[[ Train | /m/07jdr ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->ENTITY1->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+For his actions in the Belleau Woods, Sergeant OBJECT received the SUBJECT and the ENTITY1 .
+OBJECT:[[ Daly | /m/04_dd9 ]]
+SUBJECT:[[ Navy Cross | /m/02d1w_ ]]
+ENTITY1:[[ French Croix de Guerre | /m/01tkpb ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+-Then, in 1984, OBJECT posthumously awarded ENTITY1 the SUBJECT .
+OBJECT:[[ Ronald Reagan | /m/06c0j ]]
+ENTITY1:[[ Chambers | /m/018l4f ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->ENTITY1->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 1968, President OBJECT awarded ENTITY1 the SUBJECT , ENTITY2 's highest civilian award
+OBJECT:[[ Lyndon Johnson | /m/0f7fy ]]
+ENTITY1:[[ Peck | /m/0k9j_ ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ America | /m/09c7w0 ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Posthumously, Dr. OBJECT was awarded the ENTITY1 by President ENTITY2 in 1977 and the SUBJECT in 2004
+OBJECT:[[ King | /m/051cc ]]
+ENTITY1:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ Carter | /m/042kg ]]
+SUBJECT:[[ Congressional Gold Medal | /m/03vs1b ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+SUBJECT winners  ENTITY1 , ENTITY2 , and OBJECT 
+SUBJECT:[[ Bancroft Prize | /m/0223xd ]]
+ENTITY1:[[ Erskine Clarke | /m/05w16qq ]]
+ENTITY2:[[ Odd Arne Westad | /m/0gnm6w ]]
+OBJECT:[[ Sean Wilentz | /m/0d2glr ]]
+SUBJECT->winners
+OBJECT->ENTITY2->ENTITY1->winners
+LCA: winners
+
+
+He is coauthor, with OBJECT , of ENTITY1 , winner of the SUBJECT in 1974.
+OBJECT:[[ Robert William Fogel | /m/04ch8r ]]
+ENTITY1:[[ Time on the Cross | /m/0dr5ck ]]
+SUBJECT:[[ Bancroft Prize | /m/0223xd ]]
+SUBJECT->of->winner->OBJECT->with->coauthor->is
+OBJECT->with->coauthor->is
+LCA: OBJECT
+
+
+OBJECT was awarded the SUBJECT of ENTITY1 for her contributions to literature in 2007.[2
+OBJECT:[[ Lee | /m/01bq7x ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ United States | /m/09c7w0 ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT is a ENTITY1 native, and, in 2007, he was awarded the SUBJECT , that nation's highest civilian award
+OBJECT:[[ Lamb | /m/035ddv ]]
+ENTITY1:[[ Lafayette | /m/0sqd0 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded->is
+OBJECT->is
+LCA: is
+
+
+He survived it and received the SUBJECT from fellow ENTITY1 veteran OBJECT 
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ WWII | /m/081pw ]]
+OBJECT:[[ John F. Kennedy | /m/0d3k14 ]]
+SUBJECT->received->survived
+OBJECT->from->received->survived
+LCA: received
+
+
+President ENTITY1 awarded OBJECT the SUBJECT posthumously for having  faced formidable, often violent opposition with dignity and nonviolence
+ENTITY1:[[ Bill Clinton | /m/0157m ]]
+OBJECT:[[ Chavez | /m/0hw9z ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 1964, ENTITY1 was awarded the SUBJECT , the nation?s highest civilian award, by President OBJECT .
+ENTITY1:[[ Helen | /m/03ppx ]]
+SUBJECT:[[ Presidential Medal Of Freedom | /m/05qck ]]
+OBJECT:[[ Lyndon Johnson | /m/0f7fy ]]
+SUBJECT->awarded
+OBJECT->by->awarded
+LCA: awarded
+
+
+posthumously awarded OBJECT with the SUBJECT , the highest civilian honor in the ENTITY1 .
+OBJECT:[[ Cesar E. Chavez | /m/0hw9z ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ United States | /m/09c7w0 ]]
+SUBJECT->with->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Then-President ENTITY1 presented OBJECT with a SUBJECT in 1995 for his environmental efforts.
+ENTITY1:[[ Clinton | /m/0157m ]]
+OBJECT:[[ Nelson | /m/01dpb_ ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->with->presented
+OBJECT->presented
+LCA: presented
+
+
+OBJECT received the SUBJECT this week at a quiet ceremony in the ENTITY1 of the ENTITY2 
+OBJECT:[[ Tony Blair | /m/0948xk ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ East Room | /m/06_w7p ]]
+ENTITY2:[[ White House | /m/081sq ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+ENTITY1 , winner of SUBJECT , 1977; Vice President to President OBJECT , 1974-1977; and Governor of ENTITY2 1959-1973.
+ENTITY1:[[ Nelson Rockefeller | /m/05jd_ ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Gerald Ford | /m/0c_md_ ]]
+ENTITY2:[[ New York State | /m/059rby ]]
+SUBJECT->of->winner->ENTITY1
+OBJECT->to->President->ENTITY1
+LCA: ENTITY1
+
+
+OBJECT also received the ENTITY1 and the ENTITY2 's SUBJECT 
+OBJECT:[[ Peck | /m/0k9j_ ]]
+ENTITY1:[[ Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ Academy | /m/09xwz ]]
+SUBJECT:[[ Jean Hersholt Humanitarian Award | /m/0c91p ]]
+SUBJECT->ENTITY1->received
+OBJECT->received
+LCA: received
+
+
+OBJECT won the SUBJECT for ? ENTITY1 ?! ENTITY2 directed the award winning video.
+OBJECT:[[ Mary | /m/01vvyvk ]]
+SUBJECT:[[ MTV Video Music award for Best R&B Video | /m/02f764 ]]
+ENTITY1:[[ No More Drama | /m/094_jq ]]
+ENTITY2:[[ Sanji | /m/08qhn_ ]]
+SUBJECT->won
+OBJECT->won
+LCA: won
+
+
+In 2002, Mr. OBJECT received the SUBJECT for his contributions to children's education.
+OBJECT:[[ Rogers | /m/010q36 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+In 1995, Senator OBJECT was awarded the SUBJECT in recognition of a lifetime of public service
+OBJECT:[[ Nelson | /m/01dpb_ ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+OBJECT s  ENTITY1  poses as SUBJECT
+OBJECT:[[ Eastwood | /m/0bwh6 ]]
+ENTITY1:[[ Changeling | /m/02qr69m ]]
+SUBJECT:[[ Best Picture | /m/0gq9h ]]
+SUBJECT->as->poses
+OBJECT->poses
+LCA: poses
+
+
+Upon hearing the news that OBJECT had won the SUBJECT , I went to the official SUBJECT
+OBJECT:[[ Gary Becker | /m/0d71m ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+SUBJECT->won->news->hearing->Upon->went
+OBJECT->won->news->hearing->Upon->went
+LCA: won
+
+
+OBJECT was awarded the ENTITY1 in 1973 and the SUBJECT in 2002.[44
+OBJECT:[[ Clemente | /m/06ggj ]]
+ENTITY1:[[ Congressional Gold Medal | /m/03vs1b ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+In 1977, President OBJECT awarded ENTITY1 the SUBJECT 
+OBJECT:[[ Gerald R. Ford | /m/0c_md_ ]]
+ENTITY1:[[ Michener | /m/01h320 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->awarded
+OBJECT->awarded
+LCA: awarded
+
+
+Over time, ENTITY1 's impact was recognized as so important that President ENTITY2 awarded OBJECT with the SUBJECT 
+ENTITY1:[[ Earth Day | /m/014xqm ]]
+ENTITY2:[[ Clinton | /m/0157m ]]
+OBJECT:[[ Nelson | /m/01dpb_ ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->with->awarded->important->as->recognized
+OBJECT->awarded->important->as->recognized
+LCA: awarded
+
+
+OBJECT left ENTITY1 in 1966 and, in 1998, he was awarded the SUBJECT by President ENTITY2 
+OBJECT:[[ Farmer | /m/01w9r1 ]]
+ENTITY1:[[ CORE | /m/01cytd ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2:[[ Bill Clinton | /m/0157m ]]
+SUBJECT->awarded->left
+OBJECT->left
+LCA: left
+
+
+Did ENTITY1 actually wear a ENTITY2 campaign button when he received the SUBJECT from President OBJECT
+ENTITY1:[[ Walt Disney | /m/081nh ]]
+ENTITY2:[[ Goldwater | /m/01j6t ]]
+SUBJECT:[[ Medal of Freedom | /m/05qck ]]
+OBJECT:[[ Johnson | /m/0f7fy ]]
+SUBJECT->received->wear
+OBJECT->from->received->wear
+LCA: received
+
+
+OBJECT Wins SUBJECT
+OBJECT:[[ Mary J. Blige | /m/01vvyvk ]]
+SUBJECT:[[ Best R&B Video | /m/02f764 ]]
+SUBJECT->Wins
+OBJECT->Wins
+LCA: Wins
+
+
+In 1969, OBJECT honored ENTITY1 with the SUBJECT , the nation's highest civilian award
+OBJECT:[[ Lyndon Johnson | /m/0f7fy ]]
+ENTITY1:[[ Peck | /m/0k9j_ ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->with->ENTITY1->honored
+OBJECT->honored
+LCA: honored
+
+
+Dr. OBJECT recently received the SUBJECT from President ENTITY1 .
+OBJECT:[[ Patz | /m/0bmj5m5 ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY1:[[ Bush | /m/09b6zr ]]
+SUBJECT->received
+OBJECT->received
+LCA: received
+
+
+Five years later, President ENTITY1 awarded OBJECT the nation's highest civilian award, the SUBJECT 
+ENTITY1:[[ Bill Clinton | /m/0157m ]]
+OBJECT:[[ Korematsu | /m/05bn6v ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->award->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+ENTITY1 presents OBJECT with the   SUBJECT   and a cracking pair of 38DD implants to play with whenever he visits
+ENTITY1:[[ George Bush | /m/09b6zr ]]
+OBJECT:[[ Tony Blair | /m/0948xk ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->with->presents
+OBJECT->presents
+LCA: presents
+
+
+Five years later, President ENTITY1 awarded OBJECT the nation's highest civilian award, the SUBJECT .
+ENTITY1:[[ Bill Clinton | /m/0157m ]]
+OBJECT:[[ Korematsu | /m/05bn6v ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->award->OBJECT->awarded
+OBJECT->awarded
+LCA: OBJECT
+
+
+In 2000, OBJECT receives the SUBJECT , the highest award that can be granted to a civilian
+OBJECT:[[ Clark | /m/01l64q ]]
+SUBJECT:[[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT->receives
+OBJECT->receives
+LCA: receives
+
+

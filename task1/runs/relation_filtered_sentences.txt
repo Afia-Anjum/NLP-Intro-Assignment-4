@@ -1,0 +1,6 @@
+   Relation    	   Number of filtered sentences 	          Average no of misclassified entities per sentences
+award	               5	                         0.06
+business	               12	                         0.15
+film	               8	                         0.09
+music	               29	                         0.45
+people	               5	                         0.05

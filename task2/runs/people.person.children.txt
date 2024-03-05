@@ -1,0 +1,902 @@
+One of these is SUBJECT , mother of OBJECT 
+SUBJECT:[[ Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ King Henry VII | /m/03p6r ]]
+SUBJECT->is
+OBJECT->of->mother->SUBJECT->is
+LCA: SUBJECT
+
+
+OBJECT 's eldest daughter by ENTITY1 , named SUBJECT
+OBJECT:[[ Philip | /m/0f6fz ]]
+ENTITY1:[[ Elisabeth | /m/03t5k3 ]]
+SUBJECT:[[ Isabel | /m/0f9kp7 ]]
+SUBJECT->named->daughter
+OBJECT->daughter
+LCA: daughter
+
+
+Even after the ENTITY1 empire was carved up in January 2006, the SUBJECT brothers  OBJECT and ENTITY2
+ENTITY1:[[ Reliance | /m/0242c6 ]]
+SUBJECT:[[ Ambani | /m/034kdq ]]
+OBJECT:[[ Mukesh | /m/04gsrg ]]
+ENTITY2:[[ Anil | /m/0hh8vjk ]]
+SUBJECT->brothers->empire->carved
+OBJECT->brothers->empire->carved
+LCA: brothers
+
+
+OBJECT was the Regent of Perlis during the five-year period when SUBJECT was ENTITY1 
+OBJECT:[[ Tuanku Syed Faizuddin Putra | /m/0gwylb7 ]]
+SUBJECT:[[ Tuanku Syed Sirajuddin | /m/022mxf ]]
+ENTITY1:[[ Yang di-Pertuan Agong | /m/0211hn ]]
+SUBJECT->was->period->during->was
+OBJECT->was
+LCA: was
+
+
+One of the last medieval ladies to be honoured was ENTITY1 , mother of SUBJECT and grandmother of OBJECT 
+ENTITY1:[[ Lady Margaret Beaufort | /m/0j711 ]]
+SUBJECT:[[ Henry VII | /m/03p6r ]]
+OBJECT:[[ Henry VIII | /m/03p77 ]]
+SUBJECT->of->mother->ENTITY1->was
+OBJECT->of->grandmother->mother->ENTITY1->was
+LCA: of
+
+
+ENTITY1 would later remarry to OBJECT , daughter of ENTITY2 's SUBJECT 
+ENTITY1:[[ Isaac | /m/0163r3 ]]
+OBJECT:[[ Fear Brewster | /m/03gx9mk ]]
+ENTITY2:[[ Plymouth | /m/01m8dg ]]
+SUBJECT:[[ Elder William Brewster | /m/03p_9k ]]
+SUBJECT->of->daughter->OBJECT->to->remarry
+OBJECT->to->remarry
+LCA: OBJECT
+
+
+The ENTITY1 holds the remains of the ENTITY2 's namesake, OBJECT , and his parents OBJECT and SUBJECT .
+ENTITY1:[[ Stanford Mausoleum | /m/04g229 ]]
+ENTITY2:[[ University | /m/07tf8 ]]
+OBJECT:[[ Leland Stanford | /m/02fs2c ]]
+SUBJECT:[[ Jane Stanford | /m/01vzn0 ]]
+SUBJECT->OBJECT->parents->OBJECT->namesake->of->remains->holds
+OBJECT->parents->OBJECT->namesake->of->remains->holds
+LCA: OBJECT
+
+
+SUBJECT was followed by OBJECT , who ruled for ten years
+SUBJECT:[[ Amenhotep II | /m/02npr1 ]]
+OBJECT:[[ Thutmose IV | /m/02n_ls ]]
+SUBJECT->followed
+OBJECT->by->followed
+LCA: followed
+
+
+In 1951, he married the actress OBJECT , daughter of SUBJECT 
+OBJECT:[[ Jill Balcon | /m/037q0k ]]
+SUBJECT:[[ Michael Balcon | /m/037q1z ]]
+SUBJECT->of->daughter->OBJECT->married
+OBJECT->married
+LCA: OBJECT
+
+
+OBJECT is a son-in-law of SUBJECT 
+OBJECT:[[ Penner | /m/04685b7 ]]
+SUBJECT:[[ Rob Walton | /m/03lp9t ]]
+SUBJECT->of->son->is
+OBJECT->is
+LCA: is
+
+
+On 21 May, Prince SUBJECT  is born to ENTITY1 and his queen, the OBJECT of ENTITY2 
+SUBJECT:[[ Philip of Spain | /m/0f6fz ]]
+ENTITY1:[[ Charles I | /m/01lg_s ]]
+OBJECT:[[ Infanta Isabella | /m/02pwv6 ]]
+ENTITY2:[[ Portugal | /m/05r4w ]]
+SUBJECT->born
+OBJECT->queen->ENTITY1->to->born
+LCA: born
+
+
+OBJECT father, SUBJECT , served in the ENTITY1 and even ran for president in 1972 as an independent
+OBJECT:[[ Letourneau | /m/018f6q ]]
+SUBJECT:[[ John Schmitz | /m/03lpcp ]]
+ENTITY1:[[ US Congress | /m/07t31 ]]
+SUBJECT->father->served
+OBJECT->father->served
+LCA: father
+
+
+ENTITY1 , mother of SUBJECT lived at ENTITY2 and her grandson, OBJECT also resided there from time to time
+ENTITY1:[[ Margaret Beaufort | /m/0j711 ]]
+SUBJECT:[[ Henry VII | /m/03p6r ]]
+ENTITY2:[[ Woking Palace | /m/02q11kn ]]
+OBJECT:[[ Henry VIII | /m/03p77 ]]
+SUBJECT->of->mother->ENTITY1->lived->resided
+OBJECT->resided
+LCA: resided
+
+
+ENTITY1 empire was consolidated under ENTITY2 son, SUBJECT , and grandson, OBJECT 
+ENTITY1:[[ Egypt | /m/0kg9 ]]
+ENTITY2:[[ Thutmose III | /m/014dpc ]]
+SUBJECT:[[ Amenhotep II | /m/02npr1 ]]
+OBJECT:[[ Thutmose IV | /m/02n_ls ]]
+SUBJECT->son->ENTITY2->OBJECT->under->consolidated
+OBJECT->under->consolidated
+LCA: OBJECT
+
+
+Record of conversation between ENTITY1 and OBJECT , brother of SUBJECT 
+ENTITY1:[[ Elizabeth Bentley | /m/064zzx ]]
+OBJECT:[[ William Browder | /m/0gg0gg ]]
+SUBJECT:[[ Earl Browder | /m/038z2b ]]
+SUBJECT->of->brother->ENTITY1->between->conversation->of->Record
+OBJECT->ENTITY1->between->conversation->of->Record
+LCA: of
+
+
+OBJECT was the son of SUBJECT and his wife Malush.
+OBJECT:[[ St. Vladimir | /m/0b3jc ]]
+SUBJECT:[[ Sviatoslav I, Prince of Kiev | /m/0b3s_ ]]
+SUBJECT->of->son->was
+OBJECT->was
+LCA: was
+
+
+SUBJECT 's son, OBJECT , stayed here as well.
+SUBJECT:[[ Mary | /m/055l1 ]]
+OBJECT:[[ James VI | /m/01nq16 ]]
+SUBJECT->son->stayed
+OBJECT->son->stayed
+LCA: son
+
+
+Note: OBJECT is son of SUBJECT .
+OBJECT:[[ Monte Wolverton | /m/0d6dsm ]]
+SUBJECT:[[ Basil Wolverton | /m/04mxy6 ]]
+SUBJECT->of->son->is->Note
+OBJECT->is->Note
+LCA: is
+
+
+ENTITY1 's friendship with SUBJECT 's fashion designer daughter, OBJECT has been undergoing serious stress lately
+ENTITY1:[[ Madonna | /m/01vs_v8 ]]
+SUBJECT:[[ Paul McCartney | /m/03j24kf ]]
+OBJECT:[[ Stella | /m/03j437 ]]
+SUBJECT->daughter->with->friendship->undergoing
+OBJECT->undergoing
+LCA: undergoing
+
+
+SUBJECT stated   OBJECT is our beautiful angel and we will miss him so much
+SUBJECT:[[ Marsh | /m/01nx93s ]]
+OBJECT:[[ Archie | /m/0gfp9ns ]]
+SUBJECT->stated->OBJECT->is
+OBJECT->is
+LCA: OBJECT
+
+
+OBJECT was born to ENTITY1 and SUBJECT 
+OBJECT:[[ Thutmose | /m/02n_ls ]]
+ENTITY1:[[ Amenhotep II | /m/02npr1 ]]
+SUBJECT:[[ Tiaa | /m/02vyqkr ]]
+SUBJECT->ENTITY1->to->born
+OBJECT->born
+LCA: born
+
+
+First there OBJECT , son of SUBJECT .
+OBJECT:[[ Barry Goldwater Jr. | /m/09ly_0 ]]
+SUBJECT:[[ Barry Goldwater | /m/01j6t ]]
+SUBJECT->of->son->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+This structural change is being spearheaded by OBJECT , the younger son of SUBJECT .
+OBJECT:[[ Allu Sirish | /m/0gl09pp ]]
+SUBJECT:[[ Allu Aravind | /m/0f193t ]]
+SUBJECT->of->son->OBJECT->by->spearheaded
+OBJECT->by->spearheaded
+LCA: OBJECT
+
+
+monarch to use a fork was OBJECT , son of SUBJECT 
+OBJECT:[[ James I | /m/01nq16 ]]
+SUBJECT:[[ Mary, Queen of Scots | /m/055l1 ]]
+SUBJECT->of->son->OBJECT->was
+OBJECT->was
+LCA: OBJECT
+
+
+SUBJECT and his son, the future OBJECT visited ENTITY1 in ENTITY2 's reign
+SUBJECT:[[ Aethelwulf of Wessex | /m/0c_9s ]]
+OBJECT:[[ Alfred the Great | /m/0rsj ]]
+ENTITY1:[[ Rome | /m/06c62 ]]
+ENTITY2:[[ Benedict | /m/05_b1 ]]
+SUBJECT->visited
+OBJECT->visited
+LCA: visited
+
+
+OBJECT was the queen consort of King ENTITY1 of ENTITY2 , daughter of SUBJECT 
+OBJECT:[[ Margaret | /m/0crhk ]]
+ENTITY1:[[ Henry VI | /m/0cmz2 ]]
+ENTITY2:[[ England | /m/02jx1 ]]
+SUBJECT:[[ René of Anjou | /m/0ly54 ]]
+SUBJECT->of->daughter->ENTITY2->of->ENTITY1->of->consort->was
+OBJECT->was
+LCA: was
+
+
+ENTITY1 in F major, Op. 102: I. Allegro Composer: SUBJECT  SUBJECT 's son, OBJECT conducts Piano Concerto No....
+ENTITY1:[[ Piano Concerto No. 2 | /m/0bl_h0 ]]
+SUBJECT:[[ Dmitri Shostakovich | /m/02ck1 ]]
+OBJECT:[[ Maxim Shostakovich | /m/03hzg8r ]]
+SUBJECT->son->conducts
+OBJECT->conducts
+LCA: conducts
+
+
+The first of the ENTITY1 , OBJECT was the son of ENTITY2 and her second husband, Lord SUBJECT .
+ENTITY1:[[ Stuart kings | /m/01lkky ]]
+OBJECT:[[ James I | /m/01nq16 ]]
+ENTITY2:[[ Mary, Queen of Scots | /m/055l1 ]]
+SUBJECT:[[ Darnley | /m/0j73h ]]
+SUBJECT->husband->son->was
+OBJECT->was
+LCA: was
+
+
+Josephus claims that the Chaldeans were founded by the biblical character OBJECT son of SUBJECT , grandson of ENTITY1 
+OBJECT:[[ Arpachshad | /m/029k5m ]]
+SUBJECT:[[ Shem | /m/0788r ]]
+ENTITY1:[[ Noah | /m/05fzm ]]
+SUBJECT->of->son->OBJECT->character->by->founded->claims
+OBJECT->character->by->founded->claims
+LCA: OBJECT
+
+
+OBJECT ?s mother, SUBJECT , came from an old ENTITY1 family
+OBJECT:[[ Borges | /m/040db ]]
+SUBJECT:[[ Leonor Acevedo Suárez | /m/02nrcmz ]]
+ENTITY1:[[ Uruguayan | /m/02qcl8j ]]
+SUBJECT->mother->came
+OBJECT
+LCA: 
+
+
+First, I was asked to meet OBJECT 's father SUBJECT 
+OBJECT:[[ Sooraj Barjatya | /m/026gbl_ ]]
+SUBJECT:[[ Raj Kumar Barjatya | /m/0jznp5 ]]
+SUBJECT->father->meet->asked
+OBJECT->father->meet->asked
+LCA: father
+
+
+OBJECT was born in ENTITY1 on 12 August, 1566, the daughter of ENTITY2 and his third wife SUBJECT 
+OBJECT:[[ Infanta Isabella Clara Eugenia of Spain | /m/02pwv6 ]]
+ENTITY1:[[ Segovia | /m/0jg2n ]]
+ENTITY2:[[ Philip II of Spain | /m/0f6fz ]]
+SUBJECT:[[ Elisabeth of Valois | /m/03t5k3 ]]
+SUBJECT->wife->daughter->August->on->born
+OBJECT->born
+LCA: born
+
+
+OBJECT was the son of SUBJECT , the famous physicist & chemist who discovered the 
+OBJECT:[[ Thomson | /m/035ztc ]]
+SUBJECT:[[ JJ Thomson | /m/0j68z ]]
+SUBJECT->of->son->was
+OBJECT->was
+LCA: was
+
+
+Actress/ ENTITY1 SUBJECT and and OBJECT arrive at the  ENTITY2 : ..
+ENTITY1:[[ Singer | /m/015lz1 ]]
+SUBJECT:[[ Bette Midler | /m/01dw9z ]]
+OBJECT:[[ Sophie Von Haselberg | /m/0d9czwx ]]
+ENTITY2:[[ Sex and the City | /m/0l76z ]]
+SUBJECT->arrive
+OBJECT->SUBJECT->arrive
+LCA: SUBJECT
+
+
+Unfortunately, the plan didn't quite come together for OBJECT , son of ENTITY1 native SUBJECT , 
+OBJECT:[[ Christian Peppard | /m/0j2d9lt ]]
+ENTITY1:[[ Detroit | /m/02dtg ]]
+SUBJECT:[[ George Peppard | /m/0391v ]]
+SUBJECT->OBJECT->for->come
+OBJECT->for->come
+LCA: OBJECT
+
+
+ENTITY1 had executed OBJECT 's mother SUBJECT , one possible successor, and now had no-one to follow her.
+ENTITY1:[[ Queen Elizabeth | /m/02rg_ ]]
+OBJECT:[[ James | /m/01nq16 ]]
+SUBJECT:[[ Mary Queen of Scots | /m/055l1 ]]
+SUBJECT->mother->executed
+OBJECT->mother->executed
+LCA: mother
+
+
+Judge ENTITY1 indicted SUBJECT 's wife, also named OBJECT
+ENTITY1:[[ Carlos Cerda | /m/04mp7n ]]
+SUBJECT:[[ Pinochet | /m/014d3 ]]
+OBJECT:[[ Lucia | /m/025ryjp ]]
+SUBJECT->wife->indicted
+OBJECT->named->wife->indicted
+LCA: wife
+
+
+On the 10th anniversary of OBJECT ?s kidnap/murder, SUBJECT ?s mood remains as intense as back then.
+OBJECT:[[ Pai Hsiao-yen | /m/03hhcly ]]
+SUBJECT:[[ Pai Ping-ping | /m/043qnkh ]]
+SUBJECT->murder
+OBJECT->of->anniversary->On
+LCA: 
+
+
+Andante Composer: SUBJECT  SUBJECT 's son, OBJECT conducts Piano Concerto No...
+SUBJECT:[[ Dmitri Shostakovich | /m/02ck1 ]]
+OBJECT:[[ Maxim Shostakovich | /m/03hzg8r ]]
+SUBJECT->son->conducts
+OBJECT->conducts
+LCA: conducts
+
+
+Youngest son of SUBJECT , OBJECT became SUBJECT of ENTITY1 during a time of constant ENTITY2 attack.
+SUBJECT:[[ King | /m/0c_9s ]]
+OBJECT:[[ Alfred | /m/0rsj ]]
+ENTITY1:[[ Wessex | /m/084gz ]]
+ENTITY2:[[ Viking | /m/07_my ]]
+SUBJECT->of->son->became
+OBJECT->became
+LCA: became
+
+
+SUBJECT , son of ENTITY1 and father of OBJECT ; in the genealogy of Jesus Lk 3:36 .
+SUBJECT:[[ Shem | /m/0788r ]]
+ENTITY1:[[ Noah | /m/05fzm ]]
+OBJECT:[[ Arphaxad | /m/029k5m ]]
+SUBJECT
+OBJECT->of->father->son->SUBJECT
+LCA: SUBJECT
+
+
+ENTITY1 wrote a letter to SUBJECT at her trial, and about the execution to SUBJECT 's son, OBJECT .
+ENTITY1:[[ Elizabeth I | /m/02rg_ ]]
+SUBJECT:[[ Mary | /m/055l1 ]]
+OBJECT:[[ King James VI | /m/01nq16 ]]
+SUBJECT->son->to->execution->about->wrote
+OBJECT->son->to->execution->about->wrote
+LCA: son
+
+
+Daughter of ENTITY1 star SUBJECT , OBJECT and ENTITY2 are under fire due to their close business relationship
+ENTITY1:[[ Beatles | /m/07c0j ]]
+SUBJECT:[[ Paul McCartney | /m/03j24kf ]]
+OBJECT:[[ Stella | /m/03j437 ]]
+ENTITY2:[[ Adidas | /m/01jtml ]]
+SUBJECT->are
+OBJECT->SUBJECT->are
+LCA: SUBJECT
+
+
+Dr. SUBJECT ?s son, OBJECT was found dead by his mother on Saturday in his ENTITY1 , ENTITY2 home.
+SUBJECT:[[ Dre | /m/01vvydl ]]
+OBJECT:[[ Andre Young Jr. | /m/04j6q_q ]]
+ENTITY1:[[ Woodland Hills | /m/0k_p5 ]]
+ENTITY2:[[ CA | /m/01n7q ]]
+SUBJECT
+OBJECT->found
+LCA: 
+
+
+ENTITY1 says that  it was founded by OBJECT , the son of SUBJECT , and grandson of ENTITY2 .
+ENTITY1:[[ Josephus | /m/046hq ]]
+OBJECT:[[ Uz | /m/0267bqn ]]
+SUBJECT:[[ Aram | /m/03c96p_ ]]
+ENTITY2:[[ Shem | /m/0788r ]]
+SUBJECT->of->son->OBJECT->by->founded->says
+OBJECT->by->founded->says
+LCA: OBJECT
+
+
+ENTITY1 became the confessor to SUBJECT , the mother of OBJECT 
+ENTITY1:[[ Fisher | /m/0j822 ]]
+SUBJECT:[[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ Henry VII | /m/03p6r ]]
+SUBJECT->to->confessor->became
+OBJECT->of->mother->SUBJECT->to->confessor->became
+LCA: SUBJECT
+
+
+ENTITY1 died on March 24, 1603 and was succeeded by OBJECT , the son of SUBJECT .
+ENTITY1:[[ Elizabeth | /m/02rg_ ]]
+OBJECT:[[ James I | /m/01nq16 ]]
+SUBJECT:[[ Mary, Queen of Scots | /m/055l1 ]]
+SUBJECT->of->son->OBJECT->by->succeeded->died
+OBJECT->by->succeeded->died
+LCA: OBJECT
+
+
+OBJECT 's mother, SUBJECT , learned ENTITY1 from either her hubby & worked professionally as a translator
+OBJECT:[[ Borges | /m/040db ]]
+SUBJECT:[[ Leonor Acevedo Suárez | /m/02nrcmz ]]
+ENTITY1:[[ English | /m/02jx1 ]]
+SUBJECT->mother->learned
+OBJECT->mother->learned
+LCA: mother
+
+
+SUBJECT 's son OBJECT visited ENTITY1 twice, in June 1580 and August 1589
+SUBJECT:[[ Mary | /m/055l1 ]]
+OBJECT:[[ James VI | /m/01nq16 ]]
+ENTITY1:[[ Edzell | /m/0gc91s ]]
+SUBJECT->son->visited
+OBJECT->son->visited
+LCA: son
+
+
+SUBJECT gave birth to OBJECT at ENTITY1 .
+SUBJECT:[[ Mary Queen of Scots | /m/055l1 ]]
+OBJECT:[[ James VI | /m/01nq16 ]]
+ENTITY1:[[ Edinburgh Castle | /m/0jpn_ ]]
+SUBJECT->gave
+OBJECT->to->gave
+LCA: gave
+
+
+Dr. SUBJECT 's son, OBJECT , died from an overdose of heroin and morphine 
+SUBJECT:[[ Dre | /m/01vvydl ]]
+OBJECT:[[ Andre Young Jr. | /m/04j6q_q ]]
+SUBJECT->son->died
+OBJECT->son->died
+LCA: son
+
+
+Their daughter was SUBJECT , mother of OBJECT 
+SUBJECT:[[ Margaret | /m/0j711 ]]
+OBJECT:[[ Henry VII | /m/03p6r ]]
+SUBJECT->was
+OBJECT->of->mother->SUBJECT->was
+LCA: SUBJECT
+
+
+Four days after SUBJECT 's execution, ENTITY1 sent the second letter to SUBJECT 's son, OBJECT of ENTITY2 .
+SUBJECT:[[ Mary | /m/055l1 ]]
+ENTITY1:[[ Elizabeth | /m/011yr9 ]]
+OBJECT:[[ King James VI | /m/01nq16 ]]
+ENTITY2:[[ Scotland | /m/06q1r ]]
+SUBJECT->son->to->sent
+OBJECT->son->to->sent
+LCA: son
+
+
+According to ENTITY1 it was founded by OBJECT , the son of SUBJECT , and grandson of ENTITY2 
+ENTITY1:[[ Josephus | /m/046hq ]]
+OBJECT:[[ Uz | /m/0267bqn ]]
+SUBJECT:[[ Aram | /m/03c96p_ ]]
+ENTITY2:[[ Shem | /m/0788r ]]
+SUBJECT->of->son->OBJECT->by->founded
+OBJECT->by->founded
+LCA: OBJECT
+
+
+At No. 2 is OBJECT of ENTITY1 , daughter of SUBJECT who owns the ENTITY2  luxury goods empire
+OBJECT:[[ Delphine Arnault Gancia | /m/08tx3s ]]
+ENTITY1:[[ France | /m/0f8l9c ]]
+SUBJECT:[[ Bernard Arnault | /m/03lgx_ ]]
+ENTITY2:[[ Moet Hennessy Louis Vuitton | /m/03p3mc_ ]]
+SUBJECT->of->daughter->ENTITY1->of->OBJECT->is
+OBJECT->is
+LCA: OBJECT
+
+
+In 1603, upon ENTITY1 's death, SUBJECT 's son became king of ENTITY2 as OBJECT 
+ENTITY1:[[ Elizabeth | /m/02rg_ ]]
+SUBJECT:[[ Mary | /m/055l1 ]]
+ENTITY2:[[ England | /m/02jx1 ]]
+OBJECT:[[ James I | /m/01nq16 ]]
+SUBJECT->son->became
+OBJECT->as->became
+LCA: became
+
+
+We explored ENTITY1 , where SUBJECT gave birth to OBJECT .
+ENTITY1:[[ Stirling Castle | /m/01dlps ]]
+SUBJECT:[[ Mary Queen of Scots | /m/055l1 ]]
+OBJECT:[[ James VI | /m/01nq16 ]]
+SUBJECT->gave->ENTITY1->explored
+OBJECT->to->gave->ENTITY1->explored
+LCA: gave
+
+
+When ENTITY1 attacked OBJECT , SUBJECT listened
+ENTITY1:[[ Raj Thackeray | /m/070xhz ]]
+OBJECT:[[ Uddhav | /m/07jf_p ]]
+SUBJECT:[[ Bal Thackeray | /m/017z_ ]]
+SUBJECT->listened
+OBJECT->attacked->listened
+LCA: listened
+
+
+SUBJECT was succeeded by OBJECT , with his tomb being numbered KV 49
+SUBJECT:[[ Amenhotep II | /m/02npr1 ]]
+OBJECT:[[ Thutmose IV | /m/02n_ls ]]
+SUBJECT->succeeded
+OBJECT->by->succeeded
+LCA: succeeded
+
+
+It was there in 1567 that the infant son of SUBJECT was crowned OBJECT of ENTITY1 .
+SUBJECT:[[ Mary Queen of Scots | /m/055l1 ]]
+OBJECT:[[ James VI | /m/01nq16 ]]
+ENTITY1:[[ Scotland | /m/06q1r ]]
+SUBJECT->of->son->was->was
+OBJECT->was->was
+LCA: was
+
+
+OBJECT was born in ENTITY1 in 1959 to parents Major SUBJECT and his wife Susan
+OBJECT:[[ Sarah | /m/0xnjb ]]
+ENTITY1:[[ London | /m/04jpl ]]
+SUBJECT:[[ Ronald Ferguson | /m/01dlny ]]
+SUBJECT->parents->born
+OBJECT->born
+LCA: born
+
+
+He is the son of actor SUBJECT , the brother of ENTITY1 , and half-brother of OBJECT 
+SUBJECT:[[ John Carradine | /m/021mlp ]]
+ENTITY1:[[ Keith Carradine | /m/03lmzl ]]
+OBJECT:[[ Robert Carradine | /m/026qxz ]]
+SUBJECT->of->son->is
+OBJECT->of->brother->brother->SUBJECT->of->son->is
+LCA: SUBJECT
+
+
+SUBJECT 's son, OBJECT , became a page and companion to Japans second ENTITY1 , ENTITY2 .
+SUBJECT:[[ Obata Masamori | /m/07rf9v ]]
+OBJECT:[[ Obata Kagenori | /m/028b095 ]]
+ENTITY1:[[ Tokugawa Shogun | /m/0lhry ]]
+ENTITY2:[[ Tokugawa Hidetada | /m/01rc3w ]]
+SUBJECT->son->became
+OBJECT->son->became
+LCA: son
+
+
+Prominent amongst the ENTITY1 was SUBJECT , the father of OBJECT .
+ENTITY1:[[ Radicals | /m/02mvz1 ]]
+SUBJECT:[[ James Mill | /m/017h4t ]]
+OBJECT:[[ John Stuart Mill | /m/03_hd ]]
+SUBJECT->was
+OBJECT->of->father->SUBJECT->was
+LCA: SUBJECT
+
+
+The daughter of legendary ENTITY1 member SUBJECT , OBJECT wants the trend to end.
+ENTITY1:[[ Beatles | /m/07c0j ]]
+SUBJECT:[[ Paul McCartney | /m/03j24kf ]]
+OBJECT:[[ Stella | /m/03j437 ]]
+SUBJECT->of->daughter->wants
+OBJECT->wants
+LCA: wants
+
+
+The term ENTITY1 is derived from OBJECT , the fifth son of SUBJECT , the firstborn of ENTITY2 
+ENTITY1:[[ Aramaic | /m/02pnk19 ]]
+OBJECT:[[ Aram | /m/03c96p_ ]]
+SUBJECT:[[ Shem | /m/0788r ]]
+ENTITY2:[[ Noah | /m/05fzm ]]
+SUBJECT->of->son->term
+OBJECT->from->derived->term
+LCA: term
+
+
+'s hands; 3) OBJECT says very nasty things about ENTITY1 ; and 4) ENTITY1 thereafter confronted Sir SUBJECT .
+OBJECT:[[ Stella | /m/03j437 ]]
+ENTITY1:[[ Heather | /m/01f761 ]]
+ENTITY2:[[ Heather | /m/01f761 ]]
+SUBJECT:[[ Paul | /m/03j24kf ]]
+SUBJECT->confronted->says
+OBJECT->says
+LCA: says
+
+
+The OBJECT ?s father SUBJECT was a Senator and congressman from ENTITY1 .
+OBJECT:[[ Schmitz | /m/0837sc ]]
+SUBJECT:[[ John G. Schmitz | /m/03lpcp ]]
+ENTITY1:[[ California | /m/01n7q ]]
+SUBJECT->was
+OBJECT
+LCA: 
+
+
+In the rock-umentary, SUBJECT 's daughter OBJECT is the on-screen interviewer
+SUBJECT:[[ Paul | /m/03j24kf ]]
+OBJECT:[[ Mary | /m/0bkgvn ]]
+SUBJECT->daughter->is
+OBJECT->daughter->is
+LCA: daughter
+
+
+The formidably beautiful, 5'11'' actress was born OBJECT to ENTITY1 president ENTITY2 and actress   SUBJECT  .
+OBJECT:[[ Susan Weaver | /m/0h96g ]]
+ENTITY1:[[ NBC | /m/05gnf ]]
+ENTITY2:[[ Pat Weaver | /m/026tk4 ]]
+SUBJECT:[[ Elizabeth Inglis | /m/0cmc3mf ]]
+SUBJECT->president
+OBJECT->born
+LCA: 
+
+
+SUBJECT shares a child with ENTITY1 , 5-year-old OBJECT .
+SUBJECT:[[ Mills | /m/01f761 ]]
+ENTITY1:[[ McCartney | /m/03j24kf ]]
+OBJECT:[[ Beatrice Milly McCartney | /m/09pm1zj ]]
+SUBJECT->shares
+OBJECT->shares
+LCA: shares
+
+
+First marriage to OBJECT , daughter of ENTITY1 and SUBJECT 
+OBJECT:[[ Isolde Denham | /m/0j6d55b ]]
+ENTITY1:[[ Reginald Denham | /m/03hnx72 ]]
+SUBJECT:[[ Moyna MacGill | /m/0h1gw0 ]]
+SUBJECT->ENTITY1->of->daughter->OBJECT->to->marriage
+OBJECT->to->marriage
+LCA: OBJECT
+
+
+ENTITY1 group is ENTITY2 's largest business house, founded by OBJECT 's late father SUBJECT 
+ENTITY1:[[ Reliance | /m/0242c6 ]]
+ENTITY2:[[ India | /m/0326cm ]]
+OBJECT:[[ Anil | /m/04jr74 ]]
+SUBJECT:[[ Dhirubhai Ambani | /m/034kdq ]]
+SUBJECT->father->by->founded->house->is
+OBJECT->father->by->founded->house->is
+LCA: father
+
+
+, Dr. SUBJECT 's son, OBJECT , has died, Access Hol..
+SUBJECT:[[ Dre | /m/01vvydl ]]
+OBJECT:[[ Andre Young Jr. | /m/04j6q_q ]]
+SUBJECT->son->died
+OBJECT->son->died
+LCA: son
+
+
+OBJECT ?s dad, SUBJECT , was President of ENTITY1 for a while
+OBJECT:[[ Michael | /m/05b60qf ]]
+SUBJECT:[[ Doug Bennet | /m/096q3q ]]
+ENTITY1:[[ NPR | /m/0c0sl ]]
+SUBJECT->dad->was
+OBJECT
+LCA: 
+
+
+OBJECT  - Biography for the king of ENTITY1 , son of SUBJECT and ENTITY2 .
+OBJECT:[[ Henry VII | /m/03p6r ]]
+ENTITY1:[[ England | /m/02jx1 ]]
+SUBJECT:[[ Edmund Tudor | /m/0192rp ]]
+ENTITY2:[[ Margaret Beaufort | /m/0j711 ]]
+SUBJECT->of->son->king->for->Biography
+OBJECT->Biography
+LCA: Biography
+
+
+Their son OBJECT had been appointed by SUBJECT to several leadership positions within the Unification Movemenet.[55
+OBJECT:[[ Hyun Jin Moon | /m/0f3mxd ]]
+SUBJECT:[[ Sun Myung Moon | /m/07692 ]]
+SUBJECT->by->appointed
+OBJECT->son->appointed
+LCA: appointed
+
+
+King SUBJECT , father of OBJECT was born in ENTITY1 
+SUBJECT:[[ Ethelwulf of Wessex | /m/0c_9s ]]
+OBJECT:[[ Alfred the Great | /m/0rsj ]]
+ENTITY1:[[ Aachen | /m/0qjd ]]
+SUBJECT->born
+OBJECT->of->father->SUBJECT->born
+LCA: SUBJECT
+
+
+Born in 1806, OBJECT was himself the son of a philosopher, ENTITY1 historian SUBJECT 
+OBJECT:[[ Mill | /m/03_hd ]]
+ENTITY1:[[ Scottish | /m/06q1r ]]
+SUBJECT:[[ James Mill | /m/017h4t ]]
+SUBJECT->historian->was
+OBJECT->was
+LCA: was
+
+
+But ENTITY1 , husband of SUBJECT and OBJECT 's stepfather, simply looked on as the king's situation worsened critically
+ENTITY1:[[ Stanley | /m/0j1038f ]]
+SUBJECT:[[ Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ Henry Tudor | /m/03p6r ]]
+SUBJECT->of->husband->ENTITY1->looked
+OBJECT->stepfather->husband->ENTITY1->looked
+LCA: husband
+
+
+( OBJECT ?s mother ENTITY1 was married to SUBJECT for 29 years before she passed away in 1998).
+OBJECT:[[ Stella | /m/03j437 ]]
+ENTITY1:[[ Linda | /m/09g_pr ]]
+SUBJECT:[[ Paul | /m/03j24kf ]]
+SUBJECT->to->married->was
+OBJECT
+LCA: 
+
+
+SUBJECT 's successor, OBJECT , was one of the children of this last marriage
+SUBJECT:[[ Philip | /m/0f6fz ]]
+OBJECT:[[ Philip III | /m/012rkn ]]
+SUBJECT->successor->was
+OBJECT->successor->was
+LCA: successor
+
+
+OBJECT was born in ENTITY1 on October?8, 1949, daughter of ENTITY2 and SUBJECT 
+OBJECT:[[ Susan Alexandra Weaver | /m/0h96g ]]
+ENTITY1:[[ New York City | /m/02_286 ]]
+ENTITY2:[[ Sylvester Weaver | /m/026tk4 ]]
+SUBJECT:[[ Elizabeth Inglis | /m/0cmc3mf ]]
+SUBJECT->ENTITY2->of->daughter->October?8->on->born
+OBJECT->born
+LCA: born
+
+
+The new ENTITY1 was embodied by OBJECT , son of film actor Sir SUBJECT 
+ENTITY1:[[ Watson | /m/014_w4 ]]
+OBJECT:[[ Edward Hardwicke | /m/0175m_ ]]
+SUBJECT:[[ Cedric Hardwicke | /m/017d3v ]]
+SUBJECT->son->OBJECT->by->embodied
+OBJECT->by->embodied
+LCA: OBJECT
+
+
+Not in the least bit co-incidentally, OBJECT 's father was SUBJECT , head of ENTITY1 from 1937 to 1959
+OBJECT:[[ Jill | /m/037q0k ]]
+SUBJECT:[[ Michael Balcon | /m/037q1z ]]
+ENTITY1:[[ Ealing Studios | /m/01667p ]]
+SUBJECT->was
+OBJECT->father->was
+LCA: was
+
+
+ENTITY1 , mother of OBJECT , married twice after the death of Henry's father, SUBJECT .
+ENTITY1:[[ Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ Henry VII | /m/03p6r ]]
+SUBJECT:[[ Edmund Tudor | /m/0192rp ]]
+SUBJECT->father->of->death->after->married
+OBJECT->of->mother->ENTITY1->married
+LCA: of
+
+
+In the south aisle are monuments to ENTITY1 and SUBJECT , mother of OBJECT .
+ENTITY1:[[ Mary, Queen of Scots | /m/055l1 ]]
+SUBJECT:[[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ Henry VII | /m/03p6r ]]
+SUBJECT->ENTITY1->to->monuments->are
+OBJECT->of->mother->ENTITY1->to->monuments->are
+LCA: ENTITY1
+
+
+He then married OBJECT , daughter of SUBJECT , before 22 May 1627
+OBJECT:[[ Fear Brewster | /m/03gx9mk ]]
+SUBJECT:[[ William Brewster | /m/03p_9k ]]
+SUBJECT->of->daughter->OBJECT->married
+OBJECT->married
+LCA: OBJECT
+
+
+The founders of liberalism include SUBJECT , the father of OBJECT , and ENTITY1 
+SUBJECT:[[ James Mill | /m/017h4t ]]
+OBJECT:[[ John Stuart Mill | /m/03_hd ]]
+ENTITY1:[[ Jeremy Bentham | /m/0cgwf ]]
+SUBJECT->include
+OBJECT->of->father->SUBJECT->include
+LCA: SUBJECT
+
+
+SUBJECT saw his son, OBJECT get the ENTITY1 in 1937 for proving that electons are waves.
+SUBJECT:[[ JJ Thomson | /m/0j68z ]]
+OBJECT:[[ George Thomson | /m/035ztc ]]
+ENTITY1:[[ Nobel prize | /m/059x1 ]]
+SUBJECT->saw->get
+OBJECT->get
+LCA: get
+
+
+In 1505 it was re-founded as ENTITY1 by the SUBJECT , mother of OBJECT .
+ENTITY1:[[ Christ's College | /m/07tl0 ]]
+SUBJECT:[[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT:[[ King Henry VII | /m/03p6r ]]
+SUBJECT->by->founded
+OBJECT->of->mother->founded
+LCA: founded
+
+
+ENTITY1 's father, OBJECT , succeeded his mother, SUBJECT , on , 1964
+ENTITY1:[[ Henri | /m/01y_v2 ]]
+OBJECT:[[ Grand Duke Jean | /m/01yhn5 ]]
+SUBJECT:[[ Grand Duchess Charlotte | /m/0291xx ]]
+SUBJECT->mother->succeeded
+OBJECT->father->succeeded
+LCA: succeeded
+
+
+SUBJECT , successor to ENTITY1 and OBJECT , initially proposed marriage to ENTITY2 , but she refused
+SUBJECT:[[ Philip II | /m/0f6fz ]]
+ENTITY1:[[ Ferdinand | /m/0jd7g ]]
+OBJECT:[[ Isabella | /m/02pwv6 ]]
+ENTITY2:[[ Elizabeth | /m/011yr9 ]]
+SUBJECT->proposed
+OBJECT->ENTITY1->to->successor->SUBJECT->proposed
+LCA: SUBJECT
+
+
+OBJECT  is a ENTITY1 actor, the son of Sir ENTITY2 and actress SUBJECT 
+OBJECT:[[ Edward Hardwicke | /m/0175m_ ]]
+ENTITY1:[[ British | /m/07ssc ]]
+ENTITY2:[[ Cedric Hardwicke | /m/017d3v ]]
+SUBJECT:[[ Helena Pickard | /m/0gg33xx ]]
+SUBJECT->ENTITY2->of->son->actor->is
+OBJECT->is
+LCA: is
+
+
+SUBJECT 's daughter, OBJECT , laid into dad over his failed marriage to Heather, 
+SUBJECT:[[ Paul | /m/03j24kf ]]
+OBJECT:[[ Mary | /m/0bkgvn ]]
+SUBJECT->daughter->laid
+OBJECT->daughter->laid
+LCA: daughter
+
+
+The mother of OBJECT was SUBJECT , with whom ENTITY1 had a long-term affair
+OBJECT:[[ Marcus Brutus | /m/099hy ]]
+SUBJECT:[[ Servilia | /m/01syrn ]]
+ENTITY1:[[ Caesar | /m/0frwk ]]
+SUBJECT->was
+OBJECT->of->mother->was
+LCA: was
+
+
+Those characters will inevitably seen to be based on SUBJECT ?s children OBJECT , Mary and James.
+SUBJECT:[[ McCartney | /m/03j24kf ]]
+OBJECT:[[ Stella | /m/03j437 ]]
+SUBJECT->on->based->seen
+OBJECT
+LCA: 
+
+
+Born in April 1953, OBJECT is the eldest son of SUBJECT and ENTITY1 
+OBJECT:[[ Ezra | /m/053xpxr ]]
+SUBJECT:[[ Hermann | /m/0464g3m ]]
+ENTITY1:[[ Ursula Merkin | /m/03y0kty ]]
+SUBJECT->of->son->is
+OBJECT->is
+LCA: is
+
+
+Even SUBJECT ?s daughter OBJECT , who was highly vocal about her dislike of ENTITY1 , approves
+SUBJECT:[[ Paul | /m/03j24kf ]]
+OBJECT:[[ Stella McCartney | /m/03j437 ]]
+ENTITY1:[[ Heather Mills | /m/01f761 ]]
+SUBJECT
+OBJECT->approves
+LCA: 
+
+
+SUBJECT 's daughter, OBJECT , is a designer with her own brand of fashions.
+SUBJECT:[[ McCartney | /m/03j24kf ]]
+OBJECT:[[ Stella McCartney | /m/03j437 ]]
+SUBJECT->daughter->is
+OBJECT->daughter->is
+LCA: daughter
+
+

@@ -1,0 +1,20 @@
+INTRO TO NLP (Assignment-4-Task-1)
+
+Please place the file assig_4_task_1.py in the directory which contains the directory named 
+"a4_data". The directory named "a4_data" is the directory which contains all the json 
+files(relations).
+
+Create a directory named "task1" in the same directory where "a4_data" is placed. 
+
+Make a subdirectory named "runs" inside the "task1" directory.
+
+Run the program. It will generate award.txt, business.txt, film.txt, music.txt, people.txt
+and relation_filtered_sentences.txt inside the runs directory. The first five are the outputs 
+of task1, while the last one is generated to report our findings for the taks.
+
+
+INTRO TO NLP (Assignment-4-Task-2)
+
+Place the assignment-4-task2.py file in the directory which contains the directory "a4_data" with all of the json files.
+
+Run the program. It will generate 5 .txt files. The name of each file will specifiy the relation type. These files will be generated in the same directory as the assignment-4-task2.py file.

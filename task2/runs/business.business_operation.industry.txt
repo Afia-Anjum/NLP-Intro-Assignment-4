@@ -1,0 +1,886 @@
+A goal is to establish a regional Center for Excellence in OBJECT modeled after SUBJECT ?s ENTITY1 plant
+OBJECT:[[ Automobile Manufacturing | /m/015smg ]]
+SUBJECT:[[ Toyota | /m/07mb6 ]]
+ENTITY1:[[ Kentucky | /m/0498y ]]
+SUBJECT->after->modeled->Center->establish->is
+OBJECT->in->Center->establish->is
+LCA: Center
+
+
+OBJECT operator SUBJECT sold the money-losing ENTITY1 's assets and plans to shut the service down on April 30
+OBJECT:[[ Cable TV | /m/024bm ]]
+SUBJECT:[[ Cablevision | /m/04v49y ]]
+ENTITY1:[[ VOOM | /m/03bxlmh ]]
+SUBJECT->sold
+OBJECT->operator->SUBJECT->sold
+LCA: SUBJECT
+
+
+The Data security company, ENTITY1 , has signed an OBJECT agreement with the ENTITY2 telecom group, SUBJECT .
+ENTITY1:[[ Norman ASA | /m/02x34lz ]]
+OBJECT:[[ ISP | /m/0pjxv ]]
+ENTITY2:[[ Swedish | /m/0d0vqn ]]
+SUBJECT:[[ Telia | /m/07cxn ]]
+SUBJECT->group->with->agreement->signed
+OBJECT->agreement->signed
+LCA: agreement
+
+
+SUBJECT  shows that OBJECT is the second most popular topic after the Entertainment and Leisure section.
+SUBJECT:[[ Yahoo | /m/019rl6 ]]
+OBJECT:[[ Information Technology | /m/03ytc ]]
+SUBJECT->shows
+OBJECT->is->shows
+LCA: shows
+
+
+Hawaiis leading OBJECT ? SUBJECT provides daily service between the ENTITY1 and ENTITY2 ...
+OBJECT:[[ Airline Company | /m/0vg8 ]]
+SUBJECT:[[ Hawaiian Airlines | /m/03p29jd ]]
+ENTITY1:[[ Hawaiian Islands | /m/014wxc ]]
+ENTITY2:[[ Western United States | /m/018hr_ ]]
+SUBJECT->provides
+OBJECT
+LCA: 
+
+
+One of the world's leading OBJECT , SUBJECT will certainly travel to ENTITY1 for the simple and profitable.
+OBJECT:[[ Airlines | /m/0vg8 ]]
+SUBJECT:[[ Cathay Pacific | /m/013qmk ]]
+ENTITY1:[[ South Africa | /m/0hzlz ]]
+SUBJECT->travel
+OBJECT->of->One->travel
+LCA: travel
+
+
+While not directly related to this story, OBJECT provider SUBJECT does count ENTITY1 as one of its customers.
+OBJECT:[[ EMS | /m/08nq8w ]]
+SUBJECT:[[ Plexus | /m/05drpv ]]
+ENTITY1:[[ Honeywell | /m/01gx66 ]]
+SUBJECT->count
+OBJECT->provider->SUBJECT->count
+LCA: SUBJECT
+
+
+OBJECT operators SUBJECT and ntl have joined forces to take on rivals ENTITY1 and BT.??more..
+OBJECT:[[ CABLE | /m/024bm ]]
+SUBJECT:[[ Telewest | /m/010rjl ]]
+ENTITY1:[[ BSkyB | /m/03p1p8r ]]
+SUBJECT->operators->joined
+OBJECT->operators->joined
+LCA: operators
+
+
+OBJECT manufacturers SUBJECT , ENTITY1 and ENTITY2 are rolling out three-speed bikes that feature chip-controlled, gear-shifting systems.
+OBJECT:[[ Bicycle | /m/0199g ]]
+SUBJECT:[[ Giant | /m/05nn06 ]]
+ENTITY1:[[ Raleigh | /m/0fvyg ]]
+ENTITY2:[[ Trek | /m/01d6b4 ]]
+SUBJECT->manufacturers->rolling
+OBJECT->manufacturers->rolling
+LCA: manufacturers
+
+
+The world of OBJECT is heating up with the   ENTITY1   between SUBJECT and ENTITY2 
+OBJECT:[[ Sports Entertainment | /m/02tb6v ]]
+ENTITY1:[[ Monday Night Wars | /m/05trr2 ]]
+SUBJECT:[[ World Wrestling Entertainment | /m/0gy1_ ]]
+ENTITY2:[[ World Championship Wrestling | /m/019jdn ]]
+SUBJECT->between->ENTITY1->with->heating
+OBJECT->of->world->heating
+LCA: heating
+
+
+MOST FAMOUSLY, OBJECT sports network SUBJECT , which has about a hundred satellite dishes.
+OBJECT:[[ Cable | /m/024bm ]]
+SUBJECT:[[ ESPN | /m/0kc6x ]]
+SUBJECT->FAMOUSLY
+OBJECT->network->SUBJECT->FAMOUSLY
+LCA: SUBJECT
+
+
+SUBJECT Bypasses OBJECT Departments ? Agai
+SUBJECT:[[ Google | /m/045c7b ]]
+OBJECT:[[ Tech | /m/07c1v ]]
+SUBJECT->Bypasses->Departments
+OBJECT->Departments
+LCA: Departments
+
+
+And yet another article covering the OBJECT market? The ENTITY1 takes on SUBJECT .
+OBJECT:[[ VOIP | /m/0jzgd ]]
+ENTITY1:[[ NYT | /m/07k2d ]]
+SUBJECT:[[ AT&T CallVantage | /m/0c15yh ]]
+SUBJECT->takes
+OBJECT->market->covering->article
+LCA: 
+
+
+ENTITY1 is a technology standardized by SUBJECT , which makes OBJECT connections compatible with other OBJECT systems.
+ENTITY1:[[ Wi-Fi | /m/0h4d9 ]]
+SUBJECT:[[ WECA | /m/03dwnw ]]
+OBJECT:[[ WLAN | /m/0829v ]]
+SUBJECT->by->standardized->technology->is
+OBJECT->connections->compatible->makes->SUBJECT->by->standardized->technology->is
+LCA: SUBJECT
+
+
+Partnerships with global OBJECT leaders, ENTITY1 , SUBJECT and ENTITY2 further enhance our ability to deliver quality solutions world-wide.
+OBJECT:[[ ICT | /m/02vk5n9 ]]
+ENTITY1:[[ IBM | /m/03sc8 ]]
+SUBJECT:[[ Orange Business Services | /m/08zvyz ]]
+ENTITY2:[[ Microsoft | /m/04sv4 ]]
+SUBJECT->ENTITY1->leaders->with->Partnerships->enhance
+OBJECT->leaders->with->Partnerships->enhance
+LCA: leaders
+
+
+Consequently, we are further leveraging on SUBJECT ?s capabilities in ENTITY1 and OBJECT .
+SUBJECT:[[ Fortis | /m/04s31b ]]
+ENTITY1:[[ Global Markets | /m/05xysy ]]
+OBJECT:[[ Investment Banking | /m/015p1m ]]
+SUBJECT->on->leveraging
+OBJECT->ENTITY1->in->capabilities
+LCA: 
+
+
+In cooperation with SUBJECT , ENTITY1 supports greater use of sophisticated OBJECT  technology.
+SUBJECT:[[ AutoDesk | /m/018nm3 ]]
+ENTITY1:[[ Roots of Peace | /m/0201y3 ]]
+OBJECT:[[ Geographic Information Systems | /m/03821 ]]
+SUBJECT->with->cooperation->In->supports
+OBJECT->technology->of->use->supports
+LCA: supports
+
+
+SUBJECT is the fourth largest company in ENTITY1 in call centre and OBJECT outsourcing.
+SUBJECT:[[ Webhelp | /m/0ncq5w5 ]]
+ENTITY1:[[ France | /m/0f8l9c ]]
+OBJECT:[[ CRM | /m/02016 ]]
+SUBJECT->is
+OBJECT->outsourcing->company->is
+LCA: is
+
+
+SUBJECT hosts the ENTITY1 of OBJECT  annually.
+SUBJECT:[[ PokerStars | /m/09jnvg ]]
+ENTITY1:[[ World Championships | /m/01gqqn ]]
+OBJECT:[[ Online Poker | /m/02m37y ]]
+SUBJECT->hosts
+OBJECT->of->ENTITY1->hosts
+LCA: hosts
+
+
+SUBJECT launches OBJECT in the ENTITY1
+SUBJECT:[[ Clearwire | /m/0c5wjk ]]
+OBJECT:[[ VoIP | /m/0jzgd ]]
+ENTITY1:[[ US | /m/09c7w0 ]]
+SUBJECT->launches->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+Kerstetter continues,   OBJECT pundit ENTITY1 predicted SUBJECT 's current predicament more than three years ago..
+OBJECT:[[ Tech | /m/07c1v ]]
+ENTITY1:[[ Nicholas Carr | /m/04bckc ]]
+SUBJECT:[[ Dell | /m/0py9b ]]
+SUBJECT->predicament->predicted->continues
+OBJECT->pundit->ENTITY1->predicted->continues
+LCA: predicted
+
+
+Manufacturing & OBJECT was represented by SUBJECT , ENTITY1 , ENTITY2 , VIP Industries and others.
+OBJECT:[[ Automotive | /m/015smg ]]
+SUBJECT:[[ Tata Motors | /m/03jxtm ]]
+ENTITY1:[[ Ashok Leyland | /m/03wgd0 ]]
+ENTITY2:[[ Telcon | /m/02qj70f ]]
+SUBJECT->by->represented
+OBJECT->Manufacturing->represented
+LCA: represented
+
+
+OBJECT is available at the ENTITY1 with ENTITY2 and SUBJECT , and with Europe Car, off site.
+OBJECT:[[ Car Hire | /m/0drl1t ]]
+ENTITY1:[[ Airport | /m/09cjl ]]
+ENTITY2:[[ Hertz | /m/03nsh ]]
+SUBJECT:[[ Avis | /m/07l3qb ]]
+SUBJECT->ENTITY2->with->ENTITY1->at->available->is
+OBJECT->is
+LCA: is
+
+
+Travel ENTITY1 is now served by an ever growing number of OBJECT including SUBJECT and ENTITY2 
+ENTITY1:[[ Malta | /m/04v3q ]]
+OBJECT:[[ Airlines | /m/0vg8 ]]
+SUBJECT:[[ Ryan Air | /m/01m_zd ]]
+ENTITY2:[[ Easyjet | /m/018mxj ]]
+SUBJECT->including->OBJECT->of->number->by->served
+OBJECT->of->number->by->served
+LCA: OBJECT
+
+
+Overnight at SUBJECT , ENTITY1 express, OBJECT hotel ENTITY2 .
+SUBJECT:[[ Sheraton Hotel | /m/04sm8g ]]
+ENTITY1:[[ Holiday | /m/03gkl ]]
+OBJECT:[[ Tourist | /m/07bxq ]]
+ENTITY2:[[ Kampala | /m/0fngy ]]
+SUBJECT->at->express
+OBJECT->ENTITY2->express
+LCA: express
+
+
+For major repair work, the OBJECT coordinates with SUBJECT and other repair stations
+OBJECT:[[ Airline | /m/0vg8 ]]
+SUBJECT:[[ Ethiopian Airlines | /m/02351x ]]
+SUBJECT->stations->with->coordinates
+OBJECT->coordinates
+LCA: coordinates
+
+
+Dr. ENTITY1 joined OBJECT as president in September 2000 after an 11-year career with SUBJECT 
+ENTITY1:[[ Ballhaus | /m/09kfrd ]]
+OBJECT:[[ Aerospace | /m/0147gr ]]
+SUBJECT:[[ Lockheed Martin Corporation | /m/0hkqn ]]
+SUBJECT->with->career->after->joined
+OBJECT->joined
+LCA: joined
+
+
+Best prices on ENTITY1 wii, SUBJECT in OBJECT 
+ENTITY1:[[ Wars | /m/082cb ]]
+SUBJECT:[[ Electronic Arts | /m/01n073 ]]
+OBJECT:[[ Video Games | /m/01mw1 ]]
+SUBJECT
+OBJECT->in->SUBJECT
+LCA: SUBJECT
+
+
+SUBJECT has been providing a host of OBJECT services for the ENTITY1 since May of 2002.
+SUBJECT:[[ ACS | /m/07k24g ]]
+OBJECT:[[ BPO | /m/04fm00 ]]
+ENTITY1:[[ Apollo Group | /m/07ydt0 ]]
+SUBJECT->providing
+OBJECT->services->of->host->providing
+LCA: providing
+
+
+He joined SUBJECT in 1999 via SUBJECT 's acquisition of the OBJECT business of Bankers Trust Australia.
+SUBJECT:[[ Macquarie | /m/03d9ln0 ]]
+OBJECT:[[ Investment Banking | /m/015p1m ]]
+SUBJECT->acquisition->via->joined
+OBJECT->business->of->acquisition->via->joined
+LCA: acquisition
+
+
+Electricity and OBJECT are provided by SUBJECT .
+OBJECT:[[ Natural Gas | /m/05k4k ]]
+SUBJECT:[[ Manitoba Hydro | /m/04mhl5 ]]
+SUBJECT->by->provided
+OBJECT->Electricity->provided
+LCA: provided
+
+
+Web-based free scan virus uses OBJECT 's award-winning technology SUBJECT and virus Our list.
+OBJECT:[[ Software | /m/01mf0 ]]
+SUBJECT:[[ Panda | /m/04787q ]]
+SUBJECT->list->technology->uses
+OBJECT->technology->uses
+LCA: technology
+
+
+OBJECT included SUBJECT 's Director 4.0.4,
+OBJECT:[[ Software | /m/01mf0 ]]
+SUBJECT:[[ Macromedia | /m/0180df ]]
+SUBJECT->4.0.4->included
+OBJECT->included
+LCA: included
+
+
+I have Windows XP Pro SP 1 with ENTITY1 2003, ENTITY2 firewall, OBJECT aware 6.0, and SUBJECT toolbar installed.
+ENTITY1:[[ Norton Antivirus | /m/0431pl ]]
+ENTITY2:[[ Zone Alarm | /m/089dxw ]]
+OBJECT:[[ Ad | /m/011s0 ]]
+SUBJECT:[[ Google | /m/045c7b ]]
+SUBJECT->toolbar->installed->aware->ENTITY1->with->have
+OBJECT->aware->ENTITY1->with->have
+LCA: aware
+
+
+SUBJECT is the creator of the SUBJECT suite of OBJECT software products
+SUBJECT:[[ HyperWorks | /m/0gvbbm ]]
+OBJECT:[[ CAE | /m/02br93 ]]
+SUBJECT->suite->of->creator->is
+OBJECT->products->of->suite->of->creator->is
+LCA: suite
+
+
+... SUBJECT is a nationwide OBJECT , available in more than 8,000 ... www.netzero.net
+SUBJECT:[[ NetZero | /m/02x8q9 ]]
+OBJECT:[[ Internet Service Provider | /m/0pjxv ]]
+SUBJECT->is
+OBJECT->is
+LCA: is
+
+
+The OBJECT is now part of SUBJECT .
+OBJECT:[[ Publishing House | /m/0hz28 ]]
+SUBJECT:[[ Beacon Press | /m/02ky_x ]]
+SUBJECT->of->part->is
+OBJECT->is
+LCA: is
+
+
+Two years previously, in 1988 ENTITY1 was purchased by SUBJECT , OBJECT 
+ENTITY1:[[ Zondervan | /m/05t5_q ]]
+SUBJECT:[[ Harper & Row | /m/04p3tc ]]
+OBJECT:[[ Publishers | /m/0hz28 ]]
+SUBJECT->by->purchased
+OBJECT->SUBJECT->by->purchased
+LCA: SUBJECT
+
+
+OBJECT group SUBJECT has won a ? 502.6m deal to supply jet engines and services to ENTITY1 airline Etihad.
+OBJECT:[[ AEROSPACE | /m/0147gr ]]
+SUBJECT:[[ Rolls-Royce | /m/0286m5 ]]
+ENTITY1:[[ Middle Eastern | /m/04wsz ]]
+SUBJECT->won
+OBJECT->group->SUBJECT->won
+LCA: SUBJECT
+
+
+OBJECT is taken to SUBJECT in ENTITY1 to be baled.
+OBJECT:[[ Paper | /m/0641k ]]
+SUBJECT:[[ SCA | /m/01qxy3 ]]
+ENTITY1:[[ Cambridge | /m/0978r ]]
+SUBJECT->to->taken
+OBJECT->taken
+LCA: taken
+
+
+www.robotron-2084.co.uk - Preserving Williams, ENTITY1 and SUBJECT 1980's OBJECT and ENTITY2 for the future!
+ENTITY1:[[ Atari | /m/01scmq ]]
+SUBJECT:[[ Taito | /m/07rfp ]]
+OBJECT:[[ Video Games | /m/01mw1 ]]
+ENTITY2:[[ Pinball Machines | /m/0gfk5 ]]
+SUBJECT->1980->OBJECT->ENTITY1->Williams
+OBJECT->ENTITY1->Williams
+LCA: OBJECT
+
+
+SUBJECT competes with incumbent OBJECT carrier, Satellite carrier, Telephone company, and ISPs.
+SUBJECT:[[ Astound Broadband | /m/0b8dfq ]]
+OBJECT:[[ Cable TV | /m/024bm ]]
+SUBJECT->competes
+OBJECT->carrier->with->competes
+LCA: competes
+
+
+According to / OBJECT , SUBJECT s ENTITY1 is the newest to add something to lobby charm.
+OBJECT:[[ Film | /m/02vxn ]]
+SUBJECT:[[ Pixar | /m/01795t ]]
+ENTITY1:[[ Wall-E | /m/027s39y ]]
+SUBJECT->ENTITY1->is
+OBJECT->to->According->is
+LCA: is
+
+
+OBJECT of the ENTITY1  describes SUBJECT s TAIL IO R&D partnership project.
+OBJECT:[[ Oil Company | /m/03xm3m ]]
+ENTITY1:[[ Future | /m/015n_w ]]
+SUBJECT:[[ StatoilHydro | /m/02rw4hw ]]
+SUBJECT->project->describes
+OBJECT->describes
+LCA: describes
+
+
+Tags: 250-C20, ENTITY1 engines, OBJECT , SUBJECT , Aircraft engines...
+ENTITY1:[[ Aero | /m/02h381 ]]
+OBJECT:[[ Aerospace | /m/0147gr ]]
+SUBJECT:[[ Airbus | /m/015zfz ]]
+SUBJECT->OBJECT->engines->Tags->engines
+OBJECT->engines->Tags->engines
+LCA: OBJECT
+
+
+OBJECT occasion SUBJECT
+OBJECT:[[ Moto | /m/04_sv ]]
+SUBJECT:[[ harley-davidson | /m/03ny2 ]]
+SUBJECT->occasion
+OBJECT->occasion
+LCA: occasion
+
+
+Remember how people tell us that SUBJECT is an OBJECT company that only runs on one product line?
+SUBJECT:[[ Xango | /m/02m935 ]]
+OBJECT:[[ MLM | /m/056bx ]]
+SUBJECT->is->tell->Remember
+OBJECT->company->is->tell->Remember
+LCA: is
+
+
+SUBJECT bought OBJECT who first commercially published the ENTITY1 after the recodification in 1990
+SUBJECT:[[ Lexis | /m/03hn9k ]]
+OBJECT:[[ Book Publishing | /m/0hz28 ]]
+ENTITY1:[[ Code | /m/04m7yl ]]
+SUBJECT->bought
+OBJECT->bought
+LCA: bought
+
+
+ENTITY1 named SUBJECT the OBJECT offering the 'Best Value,' and highlighted our 'first-rate technical support.'
+ENTITY1:[[ CNET | /m/0by1jyj ]]
+SUBJECT:[[ MindSpring | /m/02m9sn ]]
+OBJECT:[[ Internet Service Provider | /m/0pjxv ]]
+SUBJECT->named
+OBJECT->named
+LCA: named
+
+
+SUBJECT is the media agency for ENTITY1 while Flare Communicatios handles OBJECT .
+SUBJECT:[[ ZenithOptimedia | /m/03p307q ]]
+ENTITY1:[[ PUMA | /m/03r_n_ ]]
+OBJECT:[[ PR | /m/062zr ]]
+SUBJECT->is
+OBJECT->handles->is
+LCA: is
+
+
+OBJECT owner SUBJECT , which is planning a new ENTITY1
+OBJECT:[[ BAR | /m/01nz0z ]]
+SUBJECT:[[ Regent Inns | /m/0bxjb6 ]]
+ENTITY1:[[ Walkabout | /m/0218hf ]]
+SUBJECT
+OBJECT->owner->SUBJECT
+LCA: SUBJECT
+
+
+Quoted: SUBJECT offers superior OBJECT , ENTITY1 , DSL and a range of broadband services customized for small businesses.
+SUBJECT:[[ Speakeasy | /m/0bsch3 ]]
+OBJECT:[[ Voice over IP | /m/0jzgd ]]
+ENTITY1:[[ T1 | /m/03nv1y ]]
+SUBJECT->offers->Quoted
+OBJECT->offers->Quoted
+LCA: offers
+
+
+The SUBJECT has been operating in ENTITY1 , ENTITY2 since 1986, and has recently expanded into OBJECT
+SUBJECT:[[ Commonwealth Bank of Australia | /m/02rndw ]]
+ENTITY1:[[ Tokyo | /m/07dfk ]]
+ENTITY2:[[ Japan | /m/03_3d ]]
+OBJECT:[[ Retail Banking Services | /m/0ccf7n ]]
+SUBJECT->operating
+OBJECT->into->expanded->operating
+LCA: operating
+
+
+Best prices on ENTITY1 games, SUBJECT in OBJECT 
+ENTITY1:[[ Ps2 | /m/066kp ]]
+SUBJECT:[[ Sega | /m/06p8m ]]
+OBJECT:[[ Video Games | /m/01mw1 ]]
+SUBJECT->games->on->prices
+OBJECT->in->SUBJECT->games->on->prices
+LCA: SUBJECT
+
+
+Hardware : Sun E6500, OBJECT /6000, ENTITY1 's, and Pentium PCs, SUBJECT servers, ENTITY2 
+OBJECT:[[ RS | /m/01mfj ]]
+ENTITY1:[[ IBM PC | /m/03wg7 ]]
+SUBJECT:[[ HP | /m/03mnk ]]
+ENTITY2:[[ IBM Pseries | /m/09xjr ]]
+SUBJECT->servers->PCs->ENTITY1->E6500
+OBJECT->E6500
+LCA: E6500
+
+
+The bottom cell is filled with a proprietary polymer first disclosed last year by plastic OBJECT developer SUBJECT <http://www.konarkatech.com/>
+OBJECT:[[ PV | /m/02_spr ]]
+SUBJECT:[[ Konarka Technologies | /m/0287cmk ]]
+SUBJECT->http://www.konarkatech.com/
+OBJECT->developer->by->disclosed->polymer->with->filled
+LCA: 
+
+
+The ENTITY1 SUBJECT branch recently organised a fruitful seminar on OBJECT 's future in ENTITY2 
+ENTITY1:[[ Victorian | /m/0chgr2 ]]
+SUBJECT:[[ ACS | /m/07k24g ]]
+OBJECT:[[ IT | /m/03ytc ]]
+ENTITY2:[[ Australia | /m/0chghy ]]
+SUBJECT->branch->organised
+OBJECT->future->on->seminar->organised
+LCA: organised
+
+
+SUBJECT is the ENTITY1 and OBJECT of the Cr? dit Agricole Group
+SUBJECT:[[ Calyon | /m/04n1_w ]]
+ENTITY1:[[ Corporate | /m/023k2 ]]
+OBJECT:[[ Investment Bank | /m/015p1m ]]
+SUBJECT->is
+OBJECT->ENTITY1->is
+LCA: is
+
+
+After graduating from journalism school at ENTITY1 , he worked for OBJECT company SUBJECT for several years
+ENTITY1:[[ Columbia University | /m/01w5m ]]
+OBJECT:[[ PR | /m/062zr ]]
+SUBJECT:[[ Ogilvy & Mather | /m/05qsqw ]]
+SUBJECT->for->worked
+OBJECT->company->SUBJECT->for->worked
+LCA: SUBJECT
+
+
+* Journey to OBJECT ? is not a SUBJECT program, but a program designed by HealthMasters organization.
+OBJECT:[[ Wellness | /m/059z22 ]]
+SUBJECT:[[ Shaklee Corporation | /m/03clgx7 ]]
+SUBJECT->program->is
+OBJECT->to->Journey
+LCA: 
+
+
+For instance, last month OBJECT fund SUBJECT invested $65m in the ENTITY1 's group, a ENTITY2 food brand
+OBJECT:[[ PE | /m/01b4x4 ]]
+SUBJECT:[[ Actis | /m/04lk2cp ]]
+ENTITY1:[[ Nilgiri | /m/026rdcy ]]
+ENTITY2:[[ South Indian | /m/0326cm ]]
+SUBJECT->invested
+OBJECT->fund->SUBJECT->invested
+LCA: SUBJECT
+
+
+ENTITY1 ] - OBJECT publishers SUBJECT and ENTITY2 have both cut their dividend sharply
+ENTITY1:[ [[ NYT | /m/07l1c ]]
+OBJECT:[[ Newspaper | /m/05jnl ]]
+SUBJECT:[[ Media General | /m/0553j8 ]]
+ENTITY2:[[ Belo | /m/03052h ]]
+SUBJECT->publishers->ENTITY1->cut
+OBJECT->publishers->ENTITY1->cut
+LCA: publishers
+
+
+OBJECT held by SUBJECT of ENTITY1 , ENTITY2 
+OBJECT:[[ Cable Franchise | /m/024bm ]]
+SUBJECT:[[ TCI | /m/04hwzz ]]
+ENTITY1:[[ Hawaii | /m/03gh4 ]]
+ENTITY2:[[ Inc | /m/0135dr ]]
+SUBJECT->by->held->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+ENTITY1  is an ENTITY2 actor and former OBJECT with SUBJECT .
+ENTITY1:[[ David Arquette | /m/02v60l ]]
+ENTITY2:[[ American | /m/09c7w0 ]]
+OBJECT:[[ Professional Wrestler | /m/066wd ]]
+SUBJECT:[[ World Championship Wrestling | /m/019jdn ]]
+SUBJECT->with->OBJECT->actor->is
+OBJECT->actor->is
+LCA: OBJECT
+
+
+For 2007, the SUBJECT expects a further favorable development of both OBJECT and ENTITY1 economics
+SUBJECT:[[ Kudelski Group | /m/02x8rcw ]]
+OBJECT:[[ Digital TV | /m/029j1 ]]
+ENTITY1:[[ Public Access | /m/027cx0 ]]
+SUBJECT->expects
+OBJECT->of->development->expects
+LCA: expects
+
+
+SUBJECT provided most of the OBJECT panels, while Gestamp Asetym provided management and design engineering for the project.
+SUBJECT:[[ Trina Solar | /m/047p93n ]]
+OBJECT:[[ PV | /m/02_spr ]]
+SUBJECT->provided
+OBJECT->panels->of->most->provided
+LCA: provided
+
+
+OBJECT interviews SUBJECT about its NovaLipid line of zero trans-fat oils.
+OBJECT:[[ Food Processing | /m/02vjn0 ]]
+SUBJECT:[[ Archer Daniels Midland Co. | /m/01qg42 ]]
+SUBJECT
+OBJECT->interviews->SUBJECT
+LCA: SUBJECT
+
+
+The SUBJECT has identified OBJECT as being a strong growth area, and I wanted to be part of this.
+SUBJECT:[[ Bank | /m/02lzfj ]]
+OBJECT:[[ Business Banking | /m/01bs4t ]]
+SUBJECT->identified
+OBJECT->identified
+LCA: identified
+
+
+According to the SUBJECT s study, ENTITY1 's top OBJECT firm, ENTITY2 KPOs will formulate almost 280,000 jobs &
+SUBJECT:[[ Evalueserve | /m/09yjx1 ]]
+ENTITY1:[[ India | /m/03rk0 ]]
+OBJECT:[[ Knowledge Process Outsourcing | /m/07r27z ]]
+ENTITY2:[[ Indian | /m/03rk0 ]]
+SUBJECT->s->study->to->According->formulate
+OBJECT->firm->formulate
+LCA: formulate
+
+
+Local OBJECT provided by SUBJECT ; view the WHS Channel Lineup.
+OBJECT:[[ Cable Television | /m/024bm ]]
+SUBJECT:[[ Comcast | /m/01s73z ]]
+SUBJECT->by->provided->OBJECT->view
+OBJECT->view
+LCA: OBJECT
+
+
+OBJECT start-up, SUBJECT , has increased its number of registered users from 500,000 to 5 million since July
+OBJECT:[[ VoIP | /m/0jzgd ]]
+SUBJECT:[[ Jaxtr | /m/02h8pw0 ]]
+SUBJECT->up->increased
+OBJECT->up->increased
+LCA: up
+
+
+SUBJECT was voted ENTITY1 s Leading OBJECT .
+SUBJECT:[[ Air Jamaica | /m/015pml ]]
+ENTITY1:[[ Caribbean | /m/0261m ]]
+OBJECT:[[ Airlines | /m/0vg8 ]]
+SUBJECT->voted
+OBJECT->voted
+LCA: voted
+
+
+SUBJECT says that OBJECT can help organisations address both of these concerns.
+SUBJECT:[[ Infor | /m/026c3z3 ]]
+OBJECT:[[ Enterprise software | /m/0727xx ]]
+SUBJECT->says
+OBJECT->help->says
+LCA: says
+
+
+ENTITY1 telecom SUBJECT might have broken the OBJECT law in ENTITY2 .
+ENTITY1:[[ Dutch | /m/059j2 ]]
+SUBJECT:[[ KPN | /m/02s08w ]]
+OBJECT:[[ Telecommunication | /m/029g_vk ]]
+ENTITY2:[[ Holland | /m/03gly ]]
+SUBJECT->broken
+OBJECT->law->broken
+LCA: broken
+
+
+Here is the OBJECT created by SUBJECT for intuit......
+OBJECT:[[ Ad | /m/011s0 ]]
+SUBJECT:[[ FCB | /m/0fdnpv ]]
+SUBJECT->by->created->OBJECT->is
+OBJECT->is
+LCA: OBJECT
+
+
+Swap these gasoline points in order to pitier receive plane tickets casper of SUBJECT gasoline credit OBJECT .
+SUBJECT:[[ Northwest | /m/012lxn ]]
+OBJECT:[[ Airlines | /m/0vg8 ]]
+SUBJECT->OBJECT->of->casper->receive->order->in->Swap
+OBJECT->of->casper->receive->order->in->Swap
+LCA: OBJECT
+
+
+With specialized coatings designed for OBJECT  specifically catering to SUBJECT , Oman Refineries and Petrochemicals Company and various Ministries.
+OBJECT:[[ Oil and Gas industry | /m/03xm3m ]]
+SUBJECT:[[ Petroleum Development Oman | /m/03k9gm ]]
+SUBJECT->to->catering->OBJECT->for->designed->coatings->With
+OBJECT->for->designed->coatings->With
+LCA: OBJECT
+
+
+ENTITY1  was the largest energy user in SUBJECT , followed by OBJECT  and Consumer Health .
+ENTITY1:[[ Sandoz | /m/02t15y ]]
+SUBJECT:[[ Novartis | /m/0150cn ]]
+OBJECT:[[ Pharma | /m/02q3wl ]]
+SUBJECT->in->user->was
+OBJECT->Health->by->followed->user->was
+LCA: user
+
+
+SUBJECT differs from most OBJECT products as it is effectively a OBJECT for transportation? offering
+SUBJECT:[[ TransCAD | /m/03nx8wy ]]
+OBJECT:[[ GIS | /m/03821 ]]
+SUBJECT->differs
+OBJECT->products->from->differs
+LCA: differs
+
+
+It is being released in ENTITY1 in July and OBJECT will be released by SUBJECT .
+ENTITY1:[[ J&K | /m/0djgt ]]
+OBJECT:[[ Music | /m/04rlf ]]
+SUBJECT:[[ T - Series | /m/05p3d__ ]]
+SUBJECT->by->released->released
+OBJECT->released->released
+LCA: released
+
+
+All you need to know about OBJECT was SUBJECT and ENTITY1 .
+OBJECT:[[ Biotech | /m/01ftz ]]
+SUBJECT:[[ AMGN | /m/03r820 ]]
+ENTITY1:[[ DNDN | /m/0kqkf3 ]]
+SUBJECT->was
+OBJECT->about->know->need->All->was
+LCA: was
+
+
+A follow flyer miles any questions OBJECT hit SUBJECT or companies and
+OBJECT:[[ Airlines | /m/0vg8 ]]
+SUBJECT:[[ Continental | /m/0sy5v ]]
+SUBJECT->hit->questions->miles
+OBJECT->hit->questions->miles
+LCA: hit
+
+
+At times, they have done better volumes than SUBJECT , a giant in OBJECT .
+SUBJECT:[[ Singtel | /m/020zfl ]]
+OBJECT:[[ Telecom | /m/029g_vk ]]
+SUBJECT->than->volumes->done
+OBJECT->in->giant->SUBJECT->than->volumes->done
+LCA: SUBJECT
+
+
+SUBJECT has a comprehensive listing under OBJECT .
+SUBJECT:[[ Yahoo | /m/019rl6 ]]
+OBJECT:[[ Search Engines and Directories | /m/06xw2 ]]
+SUBJECT->has
+OBJECT->under->listing->has
+LCA: has
+
+
+OBJECT is an affiliate of a ENTITY1 company SUBJECT is owned by the ENTITY2 movement
+OBJECT:[[ BioTech | /m/01ftz ]]
+ENTITY1:[[ US | /m/09c7w0 ]]
+SUBJECT:[[ Clonaid | /m/015kjw ]]
+ENTITY2:[[ Raelian | /m/02vlv_b ]]
+SUBJECT->company->of->affiliate->owned->is
+OBJECT->is
+LCA: is
+
+
+His first position was with Pennzoil E & P until SUBJECT bought the OBJECT part of Pennzoil in 1999.
+SUBJECT:[[ Devon Energy | /m/07vm_j ]]
+OBJECT:[[ Oil and Gas | /m/03xm3m ]]
+SUBJECT->bought->was
+OBJECT->bought->was
+LCA: bought
+
+
+, which spent $3.3 billion on OBJECT leader SUBJECT last year
+OBJECT:[[ BI | /m/016jq3 ]]
+SUBJECT:[[ Hyperion Solutions | /m/069xr6 ]]
+SUBJECT->on->billion->spent
+OBJECT->leader->SUBJECT->on->billion->spent
+LCA: SUBJECT
+
+
+On the Sunday after the storm we received a call through SUBJECT requesting OBJECT assistance to ENTITY1 .
+SUBJECT:[[ TNRIS | /m/0260hng ]]
+OBJECT:[[ GIS | /m/03821 ]]
+ENTITY1:[[ Galveston County | /m/0mrq3 ]]
+SUBJECT->through->received->storm->after->Sunday->On
+OBJECT->assistance->requesting->storm->after->Sunday->On
+LCA: storm
+
+
+SUBJECT has completely changed the way of OBJECT ticketing in ENTITY1 .
+SUBJECT:[[ IRCTC | /m/06kqyd ]]
+OBJECT:[[ Railway | /m/06d_3 ]]
+ENTITY1:[[ India | /m/03rk0 ]]
+SUBJECT->changed
+OBJECT->ticketing->of->way->changed
+LCA: changed
+
+
+OBJECT production company SUBJECT has plans to open a new theme park in , according to reports
+OBJECT:[[ Film | /m/02vxn ]]
+SUBJECT:[[ Universal Studios | /m/016tw3 ]]
+SUBJECT->has
+OBJECT->company->SUBJECT->has
+LCA: SUBJECT
+
+
+> OBJECT operator SUBJECT has started a mass-market super-fast broadband service in Britan, offering 50 Mbps speed.
+OBJECT:[[ Cable | /m/024bm ]]
+SUBJECT:[[ Virgin Media | /m/0963jy ]]
+SUBJECT->started
+OBJECT->operator->SUBJECT->started
+LCA: SUBJECT
+
+
+SUBJECT will be handled by OBJECT , a Videocon subsidiary which also markets the ENTITY1 brand of colour televisions.
+SUBJECT:[[ Kelvinator | /m/043s3f ]]
+OBJECT:[[ Kitchen Appliances | /m/019dx1 ]]
+ENTITY1:[[ Sansui | /m/04bt2y ]]
+SUBJECT->handled
+OBJECT->by->handled
+LCA: handled
+
+
+facility recently selected OBJECT leader SUBJECT .
+OBJECT:[[ ERP | /m/02jv7 ]]
+SUBJECT:[[ BatchMaster | /m/02vkvkr ]]
+SUBJECT->selected
+OBJECT->leader->SUBJECT->selected
+LCA: SUBJECT
+
+
+SUBJECT would automatically be categorized as OBJECT ; click it and it would list Gas/Fuel next .
+SUBJECT:[[ Safeway | /m/03lpnx ]]
+OBJECT:[[ Groceries | /m/01jpn4 ]]
+SUBJECT->categorized
+OBJECT->as->categorized
+LCA: categorized
+
+
+SUBJECT announces senior appointments in OBJECT
+SUBJECT:[[ Mahindra | /m/027gnm6 ]]
+OBJECT:[[ Automotive Sector | /m/015smg ]]
+SUBJECT->announces
+OBJECT->in->appointments->announces
+LCA: announces
+
+
+SUBJECT is a great ENTITY1 chain of OBJECT made famous by one ENTITY2 
+SUBJECT:[[ Ralph's | /m/023wwb ]]
+ENTITY1:[[ California | /m/01n7q ]]
+OBJECT:[[ Grocery Stores | /m/01jpn4 ]]
+ENTITY2:[[ Jeffrey Lebowski | /m/07bwr ]]
+SUBJECT->is
+OBJECT->of->chain->is
+LCA: is
+
+
+SUBJECT CL A OBJECT Stock Prices Chart
+SUBJECT:[[ EW SCRIPPS | /m/060ppp ]]
+OBJECT:[[ Daily | /m/05jnl ]]
+SUBJECT->CL->A->Prices
+OBJECT->Prices
+LCA: Prices
+
+
+ENTITY1 is who SUBJECT goes through, ENTITY2 goes through OBJECT , not sure who Sprint uses
+ENTITY1:[[ Asurion | /m/0765wf ]]
+SUBJECT:[[ Alltel | /m/05sfff ]]
+ENTITY2:[[ Nextel | /m/077w0b ]]
+OBJECT:[[ Signal | /m/029g_vk ]]
+SUBJECT->goes->is->goes
+OBJECT->through->goes
+LCA: goes
+
+
+SUBJECT signs OBJECT in ENTITY1 , ENTITY2
+SUBJECT:[[ Jumeirah | /m/0d1kbj ]]
+OBJECT:[[ Luxury Hotel | /m/03pty ]]
+ENTITY1:[[ Glasgow | /m/0hyxv ]]
+ENTITY2:[[ Scotland | /m/06q1r ]]
+SUBJECT->signs->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+He is currently Chief Economist of IXIS Corporate amd OBJECT , a subsidary of SUBJECT .
+OBJECT:[[ Investment Bank | /m/015p1m ]]
+SUBJECT:[[ NATIXIS | /m/026rj27 ]]
+SUBJECT->of->subsidary->Economist->is
+OBJECT->of->Economist->is
+LCA: of
+
+

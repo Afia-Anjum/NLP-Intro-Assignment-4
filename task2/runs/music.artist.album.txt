@@ -1,0 +1,879 @@
+OBJECT gave SUBJECT the opportunity to be in the spotlight
+OBJECT:[[ Crown of Jewels | /m/01q3yvm ]]
+SUBJECT:[[ Randy Scruggs | /m/01q3ywp ]]
+SUBJECT->gave
+OBJECT->gave
+LCA: gave
+
+
+However, in 1996, SUBJECT did score a minor ENTITY1 alterna-radio hit with  OBJECT  from their final album, ENTITY2 
+SUBJECT:[[ Lush | /m/016_5p ]]
+ENTITY1:[[ US | /m/09c7w0 ]]
+OBJECT:[[ Ladykillers | /m/01l5png ]]
+ENTITY2:[[ Lovelife | /m/02r8143 ]]
+SUBJECT->score
+OBJECT->score
+LCA: score
+
+
+SUBJECT speaks about her discography, “Actually, OBJECT came out before ENTITY1 .
+SUBJECT:[[ Adriana Evans | /m/01pv24s ]]
+OBJECT:[[ Nomadic | /m/0h3qnls ]]
+ENTITY1:[[ Kismet | /m/0h5285b ]]
+SUBJECT->speaks->came
+OBJECT->came
+LCA: came
+
+
+This was SUBJECT ' setup from 1999-2000; though in 2000, SUBJECT also played a red ENTITY1 during   OBJECT .
+SUBJECT:[[ Waters | /m/017g21 ]]
+ENTITY1:[[ Fender Stratocaster | /m/02m873 ]]
+OBJECT:[[ The Bravery Of Being Out Of Range | /m/01jdsdv ]]
+SUBJECT->played->was
+OBJECT->during->played->was
+LCA: played
+
+
+A remastered versions of   ENTITY1   also appears on SUBJECT 's greatest hits album OBJECT 
+ENTITY1:[[ Only Happy When It Rains | /m/0700kn ]]
+SUBJECT:[[ Garbage | /m/01pfr3 ]]
+OBJECT:[[ Absolute Garbage | /m/0bfchwd ]]
+SUBJECT->hits->on->appears
+OBJECT->hits->on->appears
+LCA: hits
+
+
+After the Henmans left, SUBJECT released the harder-edged OBJECT in 1973
+SUBJECT:[[ April Wine | /m/020vns ]]
+OBJECT:[[ Electric Jewels | /m/01jp8w0 ]]
+SUBJECT->released
+OBJECT->released
+LCA: released
+
+
+PSF: I thought OBJECT was the best SUBJECT album.
+OBJECT:[[ Time For A Witness | /m/04n2myk ]]
+SUBJECT:[[ Feelies | /m/01l8xj3 ]]
+SUBJECT->album->was->thought
+OBJECT->was->thought
+LCA: was
+
+
+OBJECT features a live set with SUBJECT including ENTITY1 from 1970
+OBJECT:[[ Live at the Fillmore East | /m/0h5s05 ]]
+SUBJECT:[[ Crazy Horse | /m/01nlvsj ]]
+ENTITY1:[[ Danny Whitten | /m/0578sm ]]
+SUBJECT->with->set->features
+OBJECT->features
+LCA: features
+
+
+Review: OBJECT is the third release from SUBJECT , and the first to feature new vocalist Tommy Paris.
+OBJECT:[[ Bite Down Hard | /m/026p2n6 ]]
+SUBJECT:[[ Britny Fox | /m/01lmxvh ]]
+SUBJECT->from->release->is
+OBJECT->is
+LCA: is
+
+
+ENTITY1 most loved band SUBJECT is back with OBJECT , their 11th album that was just released last Tuesday.
+ENTITY1:[[ Canada | /m/0d060g ]]
+SUBJECT:[[ The Tragically Hip | /m/01ltgy ]]
+OBJECT:[[ World Container | /m/01hvv1f ]]
+SUBJECT->is->loved
+OBJECT->with->back->is->loved
+LCA: is
+
+
+And ENTITY1 played SUBJECT 's   OBJECT   to cap the moment.
+ENTITY1:[[ JPL | /m/0467p ]]
+SUBJECT:[[ Baha Men | /m/01hzncp ]]
+OBJECT:[[ Who Let the Dogs Out | /m/03fzltc ]]
+SUBJECT->OBJECT->played
+OBJECT->played
+LCA: OBJECT
+
+
+Op 31 maart komt het album   OBJECT   van the SUBJECT uit op het ENTITY1 label.
+OBJECT:[[ Hills And Valleys | /m/05z25_7 ]]
+SUBJECT:[[ Flatlanders | /m/01kvgn_ ]]
+ENTITY1:[[ New West | /m/0dk666 ]]
+SUBJECT->label->van
+OBJECT->van
+LCA: van
+
+
+The revived SUBJECT returned with OBJECT  in 2006
+SUBJECT:[[ Lustra | /m/01q2zmr ]]
+OBJECT:[[ Left for Dead | /m/01q2zkr ]]
+SUBJECT->returned
+OBJECT->with->returned
+LCA: returned
+
+
+SUBJECT  is a ENTITY1 rapper from San. thanks to the singles   OBJECT  ,
+SUBJECT:[[ Lil Rob | /m/01nqvx9 ]]
+ENTITY1:[[ Chicano | /m/01qtb ]]
+OBJECT:[[ Summer Nights | /m/0ck9pb ]]
+SUBJECT->is
+OBJECT->thanks
+LCA: 
+
+
+SUBJECT makes the music on OBJECT sound like they've played it?for centuries but only wrote the songs yesterday
+SUBJECT:[[ Feufollet | /m/03f23rl ]]
+OBJECT:[[ Cow Island Hop | /m/0fhgvyg ]]
+SUBJECT->makes
+OBJECT->sound->on->music->played->makes
+LCA: makes
+
+
+In 1993 New releases included ENTITY1 's the solo album   ENTITY2   and SUBJECT 's album   OBJECT .
+ENTITY1:[[ Mick Jagger | /m/01kx_81 ]]
+ENTITY2:[[ Wandering Spirit | /m/01kx_4v ]]
+SUBJECT:[[ Paul McCartney | /m/03j24kf ]]
+OBJECT:[[ Off the Ground | /m/01j7t_y ]]
+SUBJECT->OBJECT->ENTITY2
+OBJECT->ENTITY2
+LCA: OBJECT
+
+
+ENTITY1 played on SUBJECT 's 1980 album ENTITY2 and 1981's OBJECT 
+ENTITY1:[[ Collins | /m/0140t7 ]]
+SUBJECT:[[ Martyn | /m/03j35gp ]]
+ENTITY2:[[ Grace And Danger | /m/01jtbgh ]]
+OBJECT:[[ Glorious Fool | /m/01jtcb3 ]]
+SUBJECT->ENTITY2->on->played
+OBJECT->ENTITY2->on->played
+LCA: ENTITY2
+
+
+ENTITY1 was taken by SUBJECT in his next album   OBJECT  , that was released in 2002.
+ENTITY1:[[ Rodriguez | /m/02qd71_ ]]
+SUBJECT:[[ Taylor | /m/01v4dqd ]]
+OBJECT:[[ Let's Leave This Town | /m/01mw_9t ]]
+SUBJECT->by->taken
+OBJECT->album->in->taken
+LCA: taken
+
+
+As ENTITY1 became her third platinum album, SUBJECT returned with the grittier OBJECT 
+ENTITY1:[[ Angels | /m/04wmvz ]]
+SUBJECT:[[ Loveless | /m/05sq0m ]]
+OBJECT:[[ The Trouble With the Truth | /m/01lv9kq ]]
+SUBJECT->returned
+OBJECT->with->returned
+LCA: returned
+
+
+The band probably hit its zenith when SUBJECT released the all-instrumental OBJECT  in 2000
+SUBJECT:[[ Rice | /m/01nqy91 ]]
+OBJECT:[[ Unit Of Measure | /m/024kp1h ]]
+SUBJECT->released->hit
+OBJECT->released->hit
+LCA: released
+
+
+ENTITY1 was back with SUBJECT for 1994's OBJECT , a much darker record
+ENTITY1:[[ Young | /m/0mt366 ]]
+SUBJECT:[[ Crazy Horse | /m/01nlvsj ]]
+OBJECT:[[ Sleeps with Angels | /m/01krvcc ]]
+SUBJECT->with->back->was
+OBJECT->for->was
+LCA: was
+
+
+ENTITY1 and ENTITY2 formed SUBJECT in OBJECT , circa 1985.
+ENTITY1:[[ Lee Newman | /m/01w7fs0 ]]
+ENTITY2:[[ Michael Wells | /m/01w7fsh ]]
+SUBJECT:[[ Greater Than One | /m/01m_xqn ]]
+OBJECT:[[ London | /m/024v5c_ ]]
+SUBJECT->formed
+OBJECT->in->SUBJECT->formed
+LCA: SUBJECT
+
+
+SUBJECT public? ENTITY1 , Amused to ENTITY2  y la ? pera OBJECT 
+SUBJECT:[[ Roger Waters | /m/017g21 ]]
+ENTITY1:[[ Radio KAOS | /m/01jdsjj ]]
+ENTITY2:[[ Death | /m/0294j ]]
+OBJECT:[[ Ça Ira | /m/03gkxh ]]
+SUBJECT->public
+OBJECT->to->Amused->ENTITY1
+LCA: 
+
+
+  OBJECT   introduced the original solo piano sounds of SUBJECT to ENTITY1 and the world
+OBJECT:[[ No Words | /m/01lyh5g ]]
+SUBJECT:[[ Jim Brickman | /m/059h8y ]]
+ENTITY1:[[ Adult Contemporary radio | /m/02vjzr ]]
+SUBJECT->of->sounds->introduced
+OBJECT->introduced
+LCA: introduced
+
+
+  OBJECT   is the debut studio album by ENTITY1 - ENTITY2 reggaeton singer-songwriter SUBJECT , officially released in April 2008.
+OBJECT:[[ La Maravilla | /m/03qcj5l ]]
+ENTITY1:[[ Dominican | /m/027rn ]]
+ENTITY2:[[ American | /m/09c7w0 ]]
+SUBJECT:[[ Arcangel | /m/043s9v8 ]]
+SUBJECT->by->album->is
+OBJECT->is
+LCA: is
+
+
+Click on  more info  SUBJECT 's video clip OBJECT  with ENTITY1 ..
+SUBJECT:[[ Amr Diab | /m/01239 ]]
+OBJECT:[[ Tamally Maak | /m/0glnwkj ]]
+ENTITY1:[[ English | /m/02h40lc ]]
+SUBJECT->clip->info->OBJECT->Click
+OBJECT->Click
+LCA: OBJECT
+
+
+Cameron Paul, a ENTITY1 ENTITY2 ; remixes 'Push It,' a tune from SUBJECT 's  album,   OBJECT .
+ENTITY1:[[ San Francisco | /m/0d6lp ]]
+ENTITY2:[[ DJ | /m/03f6w19 ]]
+SUBJECT:[[ Salt-N-Pepa | /m/01dx06 ]]
+OBJECT:[[ Hot, Cool & Vicious | /m/02x5w05 ]]
+SUBJECT->album->from->tune->Push->remixes->Paul
+OBJECT->album->from->tune->Push->remixes->Paul
+LCA: album
+
+
+ENTITY1 follows SUBJECT ?s 2001 debut of OBJECT , and his second album ENTITY2 , released in 2004
+ENTITY1:[[ Goodbye Blue Monday | /m/03j9xbp ]]
+SUBJECT:[[ Fisher | /m/055lsg ]]
+OBJECT:[[ Back Porch Spirituals | /m/02rr69l ]]
+ENTITY2:[[ Let It Shine | /m/02rr47g ]]
+SUBJECT->follows
+OBJECT->of->debut
+LCA: 
+
+
+And of course SUBJECT 's less-overdone albums like OBJECT  fit this aesthetic perfectly
+SUBJECT:[[ Lee Hazlewood | /m/05hbdy ]]
+OBJECT:[[ Requiem for an almost lady | /m/02wwtbf ]]
+SUBJECT->albums->fit
+OBJECT->like->albums->fit
+LCA: albums
+
+
+In mid-2005, ENTITY1 played guitar for the SUBJECT album, OBJECT , on her version of his   ENTITY2  
+ENTITY1:[[ Yusuf Islam | /m/0kj34 ]]
+SUBJECT:[[ Dolly Parton | /m/02f1c ]]
+OBJECT:[[ Those Were the Days | /m/02qm8bc ]]
+ENTITY2:[[ Where Do the Children Play | /m/0dq3vfk ]]
+SUBJECT->album->for->played
+OBJECT->album->for->played
+LCA: album
+
+
+If you're a speed metal fan, you'll like ENTITY1 -based SUBJECT 's latest offering, OBJECT 
+ENTITY1:[[ Reno | /m/06kx2 ]]
+SUBJECT:[[ Fall Silent | /m/01myg8b ]]
+OBJECT:[[ Drunken Violence | /m/024x93v ]]
+SUBJECT->offering->like
+OBJECT->offering->like
+LCA: offering
+
+
+SUBJECT ?s latest release OBJECT will be available on July 17th.
+SUBJECT:[[ Colbie Caillat | /m/02w4fkq ]]
+OBJECT:[[ Coco | /m/03gbkwk ]]
+SUBJECT
+OBJECT->be
+LCA: 
+
+
+OBJECT is the debut album by SUBJECT .
+OBJECT:[[ Organix | /m/01h_m1f ]]
+SUBJECT:[[ The Roots | /m/01f2q5 ]]
+SUBJECT->by->album->is
+OBJECT->is
+LCA: is
+
+
+Music video by SUBJECT performing OBJECT : 
+SUBJECT:[[ The Tragically Hip | /m/01ltgy ]]
+OBJECT:[[ Little Bones | /m/0ddbpn2 ]]
+SUBJECT->performing->OBJECT->by->video
+OBJECT->by->video
+LCA: OBJECT
+
+
+ENTITY1 co-wrote several songs on SUBJECT 's previous album, 1997's aptly titled and critically praised OBJECT 
+ENTITY1:[[ Petraglia | /m/03f45b3 ]]
+SUBJECT:[[ Richey | /m/01md_p6 ]]
+OBJECT:[[ Bitter Sweet | /m/01md_n5 ]]
+SUBJECT->album->on->songs->wrote
+OBJECT->songs->wrote
+LCA: songs
+
+
+Next out of the chute from SUBJECT is   ENTITY1 ,  the follow-up to   OBJECT   
+SUBJECT:[[ Brickman | /m/059h8y ]]
+ENTITY1:[[ The Gift | /m/06jpnyj ]]
+OBJECT:[[ Picture This | /m/01lygyj ]]
+SUBJECT->from->chute->of->out->is
+OBJECT->is
+LCA: is
+
+
+Kammel Kalamak  SUBJECT 's latest album, ENTITY1 is the long anticipated follow up to OBJECT 
+SUBJECT:[[ Diab | /m/01239 ]]
+ENTITY1:[[ Kammel Kalamak | /m/01mc4fc ]]
+OBJECT:[[ Leily Nahary | /m/08pc87 ]]
+SUBJECT->album->is
+OBJECT->to->up->follow->is
+LCA: is
+
+
+ENTITY1 was originally on SUBJECT 's first album called OBJECT .
+ENTITY1:[[ Sparrow | /m/014lwf6 ]]
+SUBJECT:[[ Mira Calix | /m/01vt09k ]]
+OBJECT:[[ One On One | /m/02813qy ]]
+SUBJECT->album->on->was
+OBJECT->called->album->on->was
+LCA: album
+
+
+Now in their 23rd year, SUBJECT remain a. OBJECT .
+SUBJECT:[[ KMFDM | /m/01_dvf ]]
+OBJECT:[[ HAU RUCK | /m/01hr07m ]]
+SUBJECT->remain
+OBJECT->remain
+LCA: remain
+
+
+ENTITY1 death metal band SUBJECT have made several songs about the movie, including   OBJECT   and  Hacked up for Barbecue 
+ENTITY1:[[ US | /m/09c7w0 ]]
+SUBJECT:[[ Mortician | /m/056rqt ]]
+OBJECT:[[ Chainsaw Dismemberment | /m/02vkxhq ]]
+SUBJECT->made
+OBJECT->including->movie->about->songs->made
+LCA: made
+
+
+The song   OBJECT   is taught in SUBJECT 's instructional DVD  Speed Lives 2  http://www.metalmethod.com/lead-guitar-lesson-speed-lives-2.ht
+OBJECT:[[ Hands Without Shadows | /m/01s5syg ]]
+SUBJECT:[[ Michael Angelo Batio | /m/04qs__ ]]
+SUBJECT->Speed->in->taught
+OBJECT->song->taught
+LCA: taught
+
+
+In 1984, the ENTITY1 assisted SUBJECT album OBJECT was released
+ENTITY1:[[ Robert Palmer | /m/01wbz9 ]]
+SUBJECT:[[ John Martyn | /m/03j35gp ]]
+OBJECT:[[ Sapphire | /m/02rg012 ]]
+SUBJECT->OBJECT->released->assisted
+OBJECT->released->assisted
+LCA: OBJECT
+
+
+From the SUBJECT album   OBJECT ,  released in 1973
+SUBJECT:[[ Stones | /m/07mvp ]]
+OBJECT:[[ Goats Head Soup | /m/01hn07k ]]
+SUBJECT->OBJECT->From->released
+OBJECT->From->released
+LCA: OBJECT
+
+
+The ENTITY1 just published a good article on SUBJECT and their new album, ? OBJECT ? .
+ENTITY1:[[ NY Times | /m/07k2d ]]
+SUBJECT:[[ The Roots | /m/01f2q5 ]]
+OBJECT:[[ Rising Down | /m/049rfz2 ]]
+SUBJECT->on->article->published
+OBJECT->published
+LCA: published
+
+
+En 2002, SUBJECT sort son deuxi?me album, OBJECT 
+SUBJECT:[[ Keren Ann | /m/03_lt6 ]]
+OBJECT:[[ La Disparition | /m/04jj__p ]]
+SUBJECT->son->album
+OBJECT->album
+LCA: album
+
+
+OBJECT typifies SUBJECT ?s folk-rock style which seems to be growing in popularity in ENTITY1 lately.
+OBJECT:[[ Wir Werden Sehen | /m/04ckwt0 ]]
+SUBJECT:[[ Schelmish | /m/01q02x8 ]]
+ENTITY1:[[ Germany | /m/0345h ]]
+SUBJECT->typifies
+OBJECT->typifies
+LCA: typifies
+
+
+Starting in 1989, SUBJECT released a string of bebop and neo-bop albums, starting with the ENTITY1 release OBJECT 
+SUBJECT:[[ Hargrove | /m/04l5p4 ]]
+ENTITY1:[[ Novus | /m/0661n9f ]]
+OBJECT:[[ Diamond in the Rough | /m/01mhcg2 ]]
+SUBJECT->released
+OBJECT->starting->released
+LCA: released
+
+
+, but SUBJECT boldly abandoned the ENTITY1 paradigm on OBJECT 
+SUBJECT:[[ Shorter | /m/01qdjm ]]
+ENTITY1:[[ Coltrane | /m/0f0y8 ]]
+OBJECT:[[ Speak No Evil | /m/01l6p18 ]]
+SUBJECT->abandoned
+OBJECT->on->paradigm->abandoned
+LCA: abandoned
+
+
+Use the PC infrastructure OBJECT , SUBJECT Shows no sign of OBJECT , ...
+OBJECT:[[ Life Goes On | /m/02pgzfp ]]
+SUBJECT:[[ Sash! | /m/049xsk ]]
+SUBJECT->Shows
+OBJECT->Use->Shows
+LCA: Shows
+
+
+ENTITY1 will have 4 songs on the upcoming SUBJECT record   OBJECT   on ENTITY2 .
+ENTITY1:[[ Home & Garden | /m/01tyttp ]]
+SUBJECT:[[ Colette | /m/03gt27q ]]
+OBJECT:[[ Hypnotized | /m/01rljqr ]]
+ENTITY2:[[ Om Records | /m/092wcs ]]
+SUBJECT->record->on->songs->have
+OBJECT->on->songs->have
+LCA: on
+
+
+OBJECT was SUBJECT 's last studio release 
+OBJECT:[[ Lovelife | /m/02r8143 ]]
+SUBJECT:[[ Lush | /m/016_5p ]]
+SUBJECT->release->was
+OBJECT->was
+LCA: was
+
+
+SUBJECT 's   OBJECT   has been certified GOLD by the ENTITY1 as of December 13, 2001
+SUBJECT:[[ Marc Anthony | /m/01wv9p ]]
+OBJECT:[[ Libre | /m/0271yxp ]]
+ENTITY1:[[ RIAA | /m/09tb2 ]]
+SUBJECT->certified
+OBJECT->certified
+LCA: certified
+
+
+At the time SUBJECT explained that OBJECT was all about the concept of love...
+SUBJECT:[[ John | /m/03j35gp ]]
+OBJECT:[[ Inside Out | /m/01jtbpv ]]
+SUBJECT->explained
+OBJECT->was->explained
+LCA: explained
+
+
+OBJECT is a 2004 album for ENTITY1 singer-songwriter SUBJECT , the stage name of SUBJECT .
+OBJECT:[[ The Battle for Everything | /m/0bfby55 ]]
+ENTITY1:[[ United States | /m/09c7w0 ]]
+SUBJECT:[[ John Ondrasik | /m/030l_d ]]
+SUBJECT->for->album->is
+OBJECT->is
+LCA: is
+
+
+There's one line in SUBJECT 's song, OBJECT ,  Have we lost the need and the will to care 
+SUBJECT:[[ Jimmy | /m/07sbrll ]]
+OBJECT:[[ Handmade | /m/03d7lwd ]]
+SUBJECT->song->in->line->'s->lost
+OBJECT->song->in->line->'s->lost
+LCA: song
+
+
+OBJECT is produced by SUBJECT and ENTITY1 .
+OBJECT:[[ HEI HA! | /m/026g58_ ]]
+SUBJECT:[[ Tocker | /m/0412vzb ]]
+ENTITY1:[[ Bruce Lynch | /m/02z232p ]]
+SUBJECT->by->produced
+OBJECT->produced
+LCA: produced
+
+
+ENTITY1 follows SUBJECT ?s 2001 debut of ENTITY2 , and his second album OBJECT , released in 2004
+ENTITY1:[[ Goodbye Blue Monday | /m/03j9xbp ]]
+SUBJECT:[[ Fisher | /m/055lsg ]]
+ENTITY2:[[ Back Porch Spirituals | /m/02rr69l ]]
+OBJECT:[[ Let It Shine | /m/02rr47g ]]
+SUBJECT->follows
+OBJECT->debut
+LCA: 
+
+
+  OBJECT   , a song from the SUBJECT 's album of the same name, Remixed by ENTITY1 
+OBJECT:[[ The Others | /m/05b_1j4 ]]
+SUBJECT:[[ Dukes of Windsor | /m/02r166y ]]
+ENTITY1:[[ TV Rock | /m/0bvqz4 ]]
+SUBJECT->album->from->song->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+Former ENTITY1 frontman SUBJECT 's latest solo album,   OBJECT ,  will finally get its ENTITY2 release in April
+ENTITY1:[[ Styx | /m/013w2r ]]
+SUBJECT:[[ Dennis DeYoung | /m/01p63gj ]]
+OBJECT:[[ One Hundred Years From Now | /m/03g2p_2 ]]
+ENTITY2:[[ US | /m/09c7w0 ]]
+SUBJECT->album->get
+OBJECT->album->get
+LCA: album
+
+
+In 1997, SUBJECT s ENTITY1 -based band Crisol  won the Best Latin Jazz Performance Grammy for the album OBJECT 
+SUBJECT:[[ Roy | /m/04l5p4 ]]
+ENTITY1:[[ Cuban | /m/0d04z6 ]]
+OBJECT:[[ Habana | /m/01mlb8g ]]
+SUBJECT->band->won
+OBJECT->for->won
+LCA: won
+
+
+It's rougher than anything on the deliberately-rough SUBJECT album OBJECT .
+SUBJECT:[[ Apples in Stereo | /m/022twk ]]
+OBJECT:[[ Velocity of Sound | /m/01kzwg9 ]]
+SUBJECT->album->OBJECT->on->anything->than->rougher->'s
+OBJECT->on->anything->than->rougher->'s
+LCA: OBJECT
+
+
+OBJECT is a SUBJECT compilation album, initially released in 1996 as a promotional item and re-released in 1998.
+OBJECT:[[ Retro | /m/01hq_vz ]]
+SUBJECT:[[ KMFDM | /m/01_dvf ]]
+SUBJECT->album->is
+OBJECT->is
+LCA: is
+
+
+For the analysis, I used the tune   ENTITY1   on the SUBJECT recording   OBJECT   .
+ENTITY1:[[ Southern Exposure | /m/0fhgf9g ]]
+SUBJECT:[[ Frank Wess | /m/01hn9q ]]
+OBJECT:[[ Opus In Swing | /m/03jgm54 ]]
+SUBJECT->recording->on->ENTITY1->OBJECT
+OBJECT
+LCA: OBJECT
+
+
+In 2007, the label released SUBJECT 's debut mixtape, OBJECT .
+SUBJECT:[[ Saigon | /m/08rcv8 ]]
+OBJECT:[[ The Moral of the Story | /m/03cy65t ]]
+SUBJECT->mixtape->released
+OBJECT->mixtape->released
+LCA: mixtape
+
+
+ENTITY1 , Love You Live, Flashpoint, and OBJECT are some of the best live SUBJECT recordings I?ve listened to
+ENTITY1:[[ Get Yer Ya-Ya's Out! | /m/0fs2xyf ]]
+OBJECT:[[ No Security | /m/01hmyst ]]
+SUBJECT:[[ Rolling Stones | /m/07mvp ]]
+SUBJECT->recordings->of->some->are->Love
+OBJECT->Flashpoint->Live->Love
+LCA: Love
+
+
+Until then, only metalcore completists will need to check out SUBJECT ?s debut album OBJECT .
+SUBJECT:[[ Forever In Terror | /m/03f0dvh ]]
+OBJECT:[[ Restless In The Tides | /m/03gbfmz ]]
+SUBJECT->check->need
+OBJECT
+LCA: 
+
+
+Atomic Bomb SUBJECT 's online-only CD,   OBJECT . . 
+SUBJECT:[10] [[ Public Enemy | /m/05qbq ]]
+OBJECT:[[ There's a Poison Goin' On | /m/01hns96 ]]
+SUBJECT->CD
+OBJECT->CD
+LCA: CD
+
+
+SUBJECT and ENTITY1 also collaborated on OBJECT , a bizarre soundtrack album for the film   ENTITY2  
+SUBJECT:[[ Roger | /m/017g21 ]]
+ENTITY1:[[ Ron | /m/01p80j1 ]]
+OBJECT:[[ MUSIC FROM THE BODY | /m/01kd7p_ ]]
+ENTITY2:[[ The Body | /m/09v262s ]]
+SUBJECT->collaborated
+OBJECT->on->collaborated
+LCA: collaborated
+
+
+ENTITY1 , the acoustic version in ENTITY2 , to promote the new release: OBJECT by SUBJECT 
+ENTITY1:[[ Carmen | /m/024sp9r ]]
+ENTITY2:[[ English | /m/02jx1 ]]
+OBJECT:[[ Future Past EP | /m/03g1lt2 ]]
+SUBJECT:[[ Anything Box | /m/01mq782 ]]
+SUBJECT->by->OBJECT->release->promote->ENTITY1
+OBJECT->release->promote->ENTITY1
+LCA: OBJECT
+
+
+Author's note: This work of fan fiction was inspired by and based on SUBJECT 's epic song   OBJECT .
+SUBJECT:[[ The Tragically Hip | /m/01ltgy ]]
+OBJECT:[[ Nautical Disaster | /m/0ddgbsd ]]
+SUBJECT->OBJECT->on->based->inspired->note
+OBJECT->on->based->inspired->note
+LCA: OBJECT
+
+
+Dr. SUBJECT has been recording for OBJECT since 2000 and apparently has over 400 records for the album.
+SUBJECT:[[ Dre | /m/01vvydl ]]
+OBJECT:[[ Dretox | /m/0ky5d6 ]]
+SUBJECT->recording
+OBJECT->for->recording
+LCA: recording
+
+
+Recorded during the longest winter in recent memory, OBJECT features SUBJECT longing voice and celebrated lyric.
+OBJECT:[[ New Pagan Love Song | /m/01rxh6_ ]]
+SUBJECT:[[ Brill | /m/0dgnkxd ]]
+SUBJECT->voice->features
+OBJECT->features
+LCA: features
+
+
+This year, artistic director Marian Jordan Hamilton presents an adaptation of ENTITY1 and SUBJECT rock opera OBJECT .
+ENTITY1:[[ Tim Rice | /m/0178rl ]]
+SUBJECT:[[ Andrew Lloyd-Webber | /m/0f8pz ]]
+OBJECT:[[ Jesus Christ Superstar | /m/0fvj6w ]]
+SUBJECT->OBJECT->ENTITY1->of->adaptation->presents
+OBJECT->ENTITY1->of->adaptation->presents
+LCA: OBJECT
+
+
+  OBJECT   is definitely the best SUBJECT album ever
+OBJECT:[[ The Mind Is A Terrible Thing To Taste | /m/01gybw ]]
+SUBJECT:[[ Ministry | /m/01fchy ]]
+SUBJECT->album->is
+OBJECT->is
+LCA: is
+
+
+Co-produced with ENTITY1 , ENTITY2 is SUBJECT 's first record since 2001's OBJECT 
+ENTITY1:[[ Nigel Godrich | /m/02zhp0 ]]
+ENTITY2:[[ Chaos And Creation | /m/06tybp ]]
+SUBJECT:[[ McCartney | /m/03j24kf ]]
+OBJECT:[[ Driving Rain | /m/01j7ts1 ]]
+SUBJECT->record->is
+OBJECT->since->record->is
+LCA: record
+
+
+The SUBJECT released OBJECT in September.
+SUBJECT:[[ Shaky Hands | /m/01wx5n_ ]]
+OBJECT:[[ Lunglight | /m/0dyvjcg ]]
+SUBJECT->released
+OBJECT->released
+LCA: released
+
+
+The SUBJECT hit the ENTITY1 with   OBJECT . 
+SUBJECT:[[ Spin Doctors | /m/017tvq ]]
+ENTITY1:[[ Top 40 | /m/01s4_5 ]]
+OBJECT:[[ You Let Your Heart Go Too Fast | /m/01j3mfl ]]
+SUBJECT->hit
+OBJECT->with->hit
+LCA: hit
+
+
+I think the quickest cover I ever did was the one for SUBJECT s OBJECT 
+SUBJECT:[[ Mortician | /m/056rqt ]]
+OBJECT:[[ Re-animated Dead Flesh | /m/02ryy2g ]]
+SUBJECT->OBJECT->for->one->was->think
+OBJECT->for->one->was->think
+LCA: OBJECT
+
+
+Music critic Serene Dominic notes that SUBJECT in ENTITY1  collects most of OBJECT  and SUBJECT . . 
+SUBJECT:[[ Dusty | /m/012x86 ]]
+ENTITY1:[[ London | /m/04jpl ]]
+OBJECT:[[ See All Her Faces | /m/01h8798 ]]
+SUBJECT->collects->notes
+OBJECT->of->most->collects->notes
+LCA: collects
+
+
+SUBJECT 's debut album, OBJECT , went out of print in ENTITY1 near the end of 2004
+SUBJECT:[[ Denison Witmer | /m/01pc33g ]]
+OBJECT:[[ Safe Away | /m/03clz21 ]]
+ENTITY1:[[ CD | /m/01www ]]
+SUBJECT->album->went
+OBJECT->album->went
+LCA: album
+
+
+1. SUBJECT 's OBJECT is an ENTITY1 download for $9.90.
+SUBJECT:[[ Desmond | /m/060x3 ]]
+OBJECT:[[ Bridge Over Troubled Water | /m/0h7n2p5 ]]
+ENTITY1:[[ iTunes | /m/019g58 ]]
+SUBJECT->OBJECT->is
+OBJECT->is
+LCA: OBJECT
+
+
+OBJECT is an album by SUBJECT .
+OBJECT:[[ Animositisomina | /m/02lrdv ]]
+SUBJECT:[[ Ministry | /m/01fchy ]]
+SUBJECT->by->album->is
+OBJECT->is
+LCA: is
+
+
+One film composer I like here is SUBJECT , who did the OBJECT soundtrack
+SUBJECT:[[ Anne Dudley | /m/01mtp82 ]]
+OBJECT:[[ Pushing Tin | /m/01mtp68 ]]
+SUBJECT->is
+OBJECT->soundtrack->did->SUBJECT->is
+LCA: SUBJECT
+
+
+ENTITY1 toured with SUBJECT and provided guitar and some songwriting on the subsequent albums ENTITY2 OBJECT .[5
+ENTITY1:[[ Durante | /m/0413vyt ]]
+SUBJECT:[[ KMFDM | /m/01_dvf ]]
+ENTITY2:[[ Nihil | /m/026rqj ]]
+OBJECT:[4] and [[ Xtort | /m/01hr11s ]]
+SUBJECT->with->toured
+OBJECT->albums->on->songwriting->guitar->provided->toured
+LCA: toured
+
+
+SUBJECT 's collaboration album, OBJECT , was released on February 6, 2007
+SUBJECT:[[ Keller | /m/01m6q14 ]]
+OBJECT:[[ Dream | /m/028c7ry ]]
+SUBJECT->album->released
+OBJECT->album->released
+LCA: album
+
+
+In 1969 he made his recording debut on guitar behind ENTITY1 folk singer SUBJECT on his album   OBJECT   
+ENTITY1:[[ British | /m/07ssc ]]
+SUBJECT:[[ Michael Chapman | /m/01pwbhv ]]
+OBJECT:[[ Fully Qualified Survivor | /m/01pwbgv ]]
+SUBJECT->singer->behind->made
+OBJECT->on->SUBJECT->singer->behind->made
+LCA: SUBJECT
+
+
+There were some exceptions, like ENTITY1 self-titled album, SUBJECT 's  At OBJECT ,  or ENTITY2 's  19.
+ENTITY1:[[ Fleet Foxes | /m/03qmrpl ]]
+SUBJECT:[[ Wolf Parade | /m/07zjl1 ]]
+OBJECT:[[ Mount Zoomer | /m/049t9p4 ]]
+ENTITY2:[[ Adele | /m/02z4b_8 ]]
+SUBJECT->album->like->exceptions->were
+OBJECT->At->SUBJECT->album->like->exceptions->were
+LCA: SUBJECT
+
+
+666.667 ENTITY1 is an song by SUBJECT on OBJECT .
+ENTITY1:[[ Club | /m/0c2lp ]]
+SUBJECT:[[ Noir Désir | /m/01yx6j ]]
+OBJECT:[[ 666.667 Club | /m/01jdvry ]]
+SUBJECT->by->song->is
+OBJECT->on->song->is
+LCA: song
+
+
+The main course is OBJECT , the sophomore album from SUBJECT 
+OBJECT:[[ Red | /m/03m8mqp ]]
+SUBJECT:[[ Guillemots | /m/09dr37 ]]
+SUBJECT->from->album->OBJECT->is
+OBJECT->is
+LCA: OBJECT
+
+
+On Monday, ENTITY1 refused to answer reporters' questions regarding his rumored ownership of the 1991 SUBJECT album OBJECT 
+ENTITY1:[[ Bradley | /m/01q8vl ]]
+SUBJECT:[[ Spin Doctors | /m/017tvq ]]
+OBJECT:[[ Pocket Full Of Kryptonite | /m/01j3mp9 ]]
+SUBJECT->album->OBJECT->of->ownership->regarding->answer->refused
+OBJECT->of->ownership->regarding->answer->refused
+LCA: OBJECT
+
+
+The SUBJECT album OBJECT has been my favorite album for almost twenty freaking years.
+SUBJECT:[[ Feelies | /m/01l8xj3 ]]
+OBJECT:[[ The Good Earth | /m/01l8xch ]]
+SUBJECT->OBJECT->been
+OBJECT->been
+LCA: OBJECT
+
+
+Check ENTITY1 Presents SUBJECT   OBJECT  , here..
+ENTITY1:[[ Jah Warrior | /m/01npk86 ]]
+SUBJECT:[[ Peter Broggs | /m/01my58n ]]
+OBJECT:[[ Jah Golden Throne | /m/01my57l ]]
+SUBJECT->OBJECT->Presents
+OBJECT->Presents
+LCA: OBJECT
+
+
+As the lead singer of the teen group SUBJECT , ENTITY1 was a OBJECT pop star by age twenty-two
+SUBJECT:[[ Grupo Mania | /m/01mt9jr ]]
+ENTITY1:[[ Crespo | /m/044gjv ]]
+OBJECT:[[ Latino | /m/01mt9cv ]]
+SUBJECT->group->of->singer->As->was
+OBJECT->star->was
+LCA: was
+
+
+File this one next to ENTITY1 , Judy Tenuta and SUBJECT circa OBJECT .
+ENTITY1:[[ Steve Martin | /m/0p_47 ]]
+SUBJECT:[[ Bette Midler | /m/01dw9z ]]
+OBJECT:[[ Mud Will Be Flung Tonight | /m/01k8k1g ]]
+SUBJECT->OBJECT->Tenuta->ENTITY1->to->next->one->File
+OBJECT->Tenuta->ENTITY1->to->next->one->File
+LCA: OBJECT
+
+
+ENTITY1 is an song by SUBJECT on OBJECT .
+ENTITY1:[[ Raiders | /m/0qjt8j ]]
+SUBJECT:[[ Anne Dudley | /m/01mtp82 ]]
+OBJECT:[[ American History X Soundtrack | /m/01mtp4z ]]
+SUBJECT->by->song->is
+OBJECT->on->song->is
+LCA: song
+
+
+Lyrics of OBJECT sung by SUBJECT
+OBJECT:[[ Repeat | /m/01m94bx ]]
+SUBJECT:[[ GRINSPOON | /m/02qvmr ]]
+SUBJECT->by->sung->Lyrics
+OBJECT->of->Lyrics
+LCA: Lyrics
+
+
+The project would mark the first time ENTITY1 worked with SUBJECT since 1973's OBJECT 
+ENTITY1:[[ Eno | /m/018x3 ]]
+SUBJECT:[[ Roxy Music | /m/06gcn ]]
+OBJECT:[[ For Your Pleasure | /m/01khgzz ]]
+SUBJECT->with->worked->time->mark
+OBJECT->since->worked->time->mark
+LCA: worked
+
+
+Each new track on OBJECT individually displays a different element of the SUBJECT sound.
+OBJECT:[[ Live for Today | /m/0csc1x ]]
+SUBJECT:[[ Boy Sets Fire | /m/05sldf ]]
+SUBJECT->sound->of->element->displays
+OBJECT->on->track->displays
+LCA: displays
+
+
+SUBJECT performs this   OBJECT   song in ENTITY1 during September 2002.
+SUBJECT:[[ Patty Loveless | /m/05sq0m ]]
+OBJECT:[[ Mountain Soul | /m/01lv9rf ]]
+ENTITY1:[[ Nashville | /m/05jbn ]]
+SUBJECT->performs
+OBJECT->song->performs
+LCA: performs
+
+
+OBJECT is a compilation by SUBJECT released in 1975.
+OBJECT:[[ Rolled Gold: The Very Best of the Rolling Stones | /m/03md5kv ]]
+SUBJECT:[[ The Rolling Stones | /m/07mvp ]]
+SUBJECT->by->compilation->is
+OBJECT->is
+LCA: is
+
+
