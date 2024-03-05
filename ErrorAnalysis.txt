@@ -1,0 +1,12 @@
+frequently misclassified words per relation 
+people.person -> {20: 'The Beatles', 38: 'Bar-Kays', 92: 'British'} ,Austro-Hungarian, Lydian
+{32: 'American', 38: 'King James I', 41: 'Ruling Elder', 54: 'British', 57: 'Bar-Kays', 64: 'Ruling Elder', 65: 'English'}
+
+{2: 'King Alfred', 38: 'British', 44: 'Swiss', 45: 'Alfred the Great', 63: 'English', 69: 'British', 72: 'LA', 82: 'Scottish', 88: 'Frederick A. Kesey', 93: 'King James I'}
+
+Relation                   Estimates of No. of filtered sentences
+people.person 
+
+
+Relation     Sentences(100 random sentences per relation)      Avg no. of mis.iden. entity
+ 
